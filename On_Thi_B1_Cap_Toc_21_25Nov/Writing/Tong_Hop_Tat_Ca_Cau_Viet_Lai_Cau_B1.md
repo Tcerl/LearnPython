@@ -1,8 +1,20 @@
-# 📚 TỔNG HỢP TOÀN BỘ 42 DẠNG VIẾT LẠI CÂU B1 & 115 CÂU MẪU SÁT ĐỀ THI
-### (Tài liệu tra cứu toàn diện 100% các dạng Sentence Transformation & Câu Hỏi `Why not / Would you mind / How much...` trong đề thi B1)
+# 📚 ĐẠI TỪ ĐIỂN 60 DẠNG VIẾT LẠI CÂU B1 (12 NHÓM CHỦ ĐIỂM + 160 CÂU MẪU + 25 CẶP CỤM TỪ QUY ĐỔI + 50 BÀI TẬP THỰC CHIẾN)
+### (Bản hoàn thiện 100% không thiếu bất kỳ dạng Sentence Transformation nào của đề thi Tiếng Anh B1)
 
-> 💡 **CÁCH HỌC NHANH**:
-> Mọi câu viết lại câu trong đề thi B1 đều xoay quanh **9 NHÓM CHỦ ĐIỂM (42 CÔNG THỨC — Đặc biệt Nhóm 9 chuyên trị mọi dạng Câu Hỏi như `Why not...?`, `Why don't we/you...?`, `Would you mind...?`, `Would you like...?`, `How much/far/long/tall...`)** và **Bảng 30 Động Từ Bất Quy Tắc Hay Ra Thi Nhất** dưới đây.
+> 💡 **TỔNG QUAN 12 NHÓM CHỦ ĐIỂM (60 DẠNG CÔNG THỨC)**:
+> - **Bảng Cứu Sinh:** 30 Động từ bất quy tắc (`V1 - V2 - V3`) hay ra thi B1 nhất.
+> - **Nhóm 1 (Dạng 1 – 5):** Biến đổi Thì (Quá khứ đơn ⟷ Hiện tại hoàn thành).
+> - **Nhóm 2 (Dạng 6 – 9):** Câu So sánh (Hơn, Bằng, Nhất, Giống/Khác).
+> - **Nhóm 3 (Dạng 10 – 13):** Câu Bị động (Hiện tại, Quá khứ, HTHT, Khuyết thiếu).
+> - **Nhóm 4 (Dạng 14 – 16):** Quá... đến nỗi / Đủ... để (`Too / Enough / So / Such`).
+> - **Nhóm 5 (Dạng 17 – 19):** Câu Điều kiện & Lời khuyên (`If / Unless / If I were you`).
+> - **Nhóm 6 (Dạng 20 – 23):** Câu Gián tiếp / Tường thuật (`Reported Speech`).
+> - **Nhóm 7 (Dạng 24 – 25):** Liên từ Tương phản & Nguyên nhân (`Although / In spite of / Because / Because of`).
+> - **Nhóm 8 (Dạng 26 – 30):** Sở thích (`prefer/would rather`), Thời gian (`takes/spends`), Gợi ý, Thói quen (`used to`), Quy định (`must/needn't/belong to`).
+> - **Nhóm 9 (Dạng 31 – 42):** **Chuyên đề Câu hỏi** (`Why not / Why don't we / Why don't you`, `Would you mind`, `Would you like`, `How much / far / long / tall / old / Why / Whose`, Câu cảm thán).
+> - **Nhóm 10 (Dạng 43 – 47):** **Mệnh đề quan hệ & Liên từ cặp** (`who / which / where / whose / with`, `both...and`, `neither...nor`, `not only...but also`).
+> - **Nhóm 11 (Dạng 48 – 51):** **Câu Ước & Giả định** (`I wish / If only`, `It's high time`, `would rather S + V2/ed`).
+> - **Nhóm 12 (Dạng 52 – 60):** **Thể truyền khiến (`have sth done`), Động từ đi với Giới từ (`apologize for, look forward to, prevent from...`), Mục đích (`so that / in order to`), Đảo ngữ cơ bản & Bảng 25 Cặp Phrasal Verbs quy đổi trực tiếp**.
 
 ---
 
@@ -537,3 +549,326 @@
   105. The Banh cay in Thai Binh is so delicious!
        ➔ **What delicious Banh cay in Thai Binh!** *(Banh cay không đếm được nên không dùng a/an)*
        ➔ **How delicious the Banh cay in Thai Binh is!**
+
+
+---
+
+# NHÓM 10: MỆNH ĐỀ QUAN HỆ & LIÊN TỪ GHÉP CẶP (`WHO / WHICH / WHERE / WHOSE / WITH / NEITHER...NOR`) — 5 DẠNG (DẠNG 43 – 47)
+
+### Dạng 43: Nối câu chỉ Người (`who / that`)
+- **Quy tắc thép:** Đặt mệnh đề `who + V` ngay sau danh từ chỉ người mà nó bổ nghĩa.
+  106. The boy is my best friend Nam. He is playing badminton over there.
+       ➔ **The boy who is playing badminton over there is my best friend Nam.**
+  107. A waitress served us. She was very polite and friendly.
+       ➔ **The waitress who served us was very polite and friendly.**
+
+### Dạng 44: Nối câu chỉ Vật (`which / that`)
+  108. I bought a blue denim jacket on Shopee. It was on sale for half price.
+       ➔ **The blue denim jacket which (hoặc: that) I bought on Shopee was on sale for half price.**
+  109. The book is very interesting. You lent it to me last week. *(Nhớ bỏ chữ `it` khi đã dùng `which`!)*
+       ➔ **The book which you lent to me last week is very interesting.**
+
+### Dạng 45: Nối câu chỉ Nơi chốn (`where`) & Sở hữu (`whose`)
+- **Quy tắc thép:**
+  - `there / in that place` ➔ đổi thành **`where + S + V`**.
+  - `his / her / their + Danh từ` ➔ đổi thành **`whose + Danh từ`**.
+  110. Dong Hung is a peaceful district. I was born and grew up there. *(Nhớ bỏ chữ `there` khi đã dùng `where`!)*
+       ➔ **Dong Hung is a peaceful district where I was born and grew up.**
+  111. Sepilok is an animal centre. Young orang-utans whose parents have died live there.
+       ➔ **Sepilok is an animal centre where young orang-utans live.**
+  112. I met a teenager. His parents built a wooden windmill house.
+       ➔ **I met a teenager whose parents built a wooden windmill house.**
+
+### Dạng 46: Rút gọn Mệnh đề quan hệ bằng Giới từ (`with / in`) hoặc `V-ing / V3`
+- **Công thức:**
+  - `who has / which has + [Đặc điểm / Đồ vật]` ⟷ **`with + [Đặc điểm / Đồ vật]`**
+  - `who is wearing + [Quần áo]` ⟷ **`in + [Quần áo]`**
+  113. Nam is a tall boy who has a bright smile.
+       ➔ **Nam is a tall boy with a bright smile.**
+  114. We stayed in a modern cave home which had an Internet connection.
+       ➔ **We stayed in a modern cave home with an Internet connection.**
+  115. The young man who is wearing a blue denim jacket is my brother.
+       ➔ **The young man in a blue denim jacket is my brother.**
+
+### Dạng 47: Liên từ ghép cặp (`Both...and`, `Neither...nor`, `Either...or`, `Not only...but also`)
+- **Công thức:**
+  - Cả A và B đều ĐÚNG: **`Both A and B + V(số nhiều)`** ⟷ **`Not only A but also B + V(chia theo B)`**
+  - Cả A và B đều KHÔNG: **`A doesn't/didn't V, and B doesn't/didn't either`** ⟷ **`Neither A nor B + V(khẳng định, chia theo B)`**
+  116. Nam likes playing badminton, and I like playing badminton too.
+       ➔ **Both Nam and I like playing badminton.**
+  117. The bedroom in the cave home is quiet, and it is also cool.
+       ➔ **The bedroom in the cave home is not only quiet but also cool.** *(hoặc: both quiet and cool).*
+  118. My father doesn't drink coffee, and my brother doesn't either.
+       ➔ **Neither my father nor my brother drinks coffee.** *(Chú ý: Đã có `Neither...nor` thì động từ `drinks` ở dạng khẳng định và chia theo danh từ đứng gần nó nhất là `my brother`!)*.
+
+---
+
+# NHÓM 11: CÂU ƯỚC (`I WISH / IF ONLY`) & CÂU GIẢ ĐỊNH (`IT'S TIME / WOULD RATHER S + V2`) — 4 DẠNG (DẠNG 48 – 51)
+
+### Dạng 48: Câu ước trái với Hiện tại (`What a pity / I'm sorry / regret` ➔ `I wish / If only + S + V2/ed (were)`)
+- **Quy tắc thép:** Câu gốc ở Hiện tại đơn ➔ Lùi xuống **Quá khứ đơn (`V2/ed`, to be dùng `were`)** và **ĐỔI DẤU** (Câu gốc Phủ định `don't/can't` ➔ Câu ước Khẳng định; Câu gốc Khẳng định ➔ Câu ước Phủ định `didn't/weren't`).
+  119. What a pity! I don't know how to play the acoustic guitar.
+       ➔ **I wish (hoặc: If only) I knew how to play the acoustic guitar.**
+  120. I'm sorry that I don't live near my grandparents in Thai Binh.
+       ➔ **I wish I lived near my grandparents in Thai Binh.**
+  121. It's a shame that the weather is so hot today.
+       ➔ **I wish the weather weren't (hoặc: wasn't) so hot today.**
+
+### Dạng 49: Câu ước cho Tương lai hoặc Khả năng (`can't / won't` ➔ `I wish + S + could / would + V-bare`)
+  122. I'm sorry I can't come to your birthday party this Saturday.
+       ➔ **I wish I could come to your birthday party this Saturday.**
+  123. It's a pity that it won't stop raining soon.
+       ➔ **I wish it would stop raining soon.**
+
+### Dạng 50: Câu ước trái với Quá khứ (`regret + V-ing` ➔ `I wish + S + had (not) + V3/ed`)
+  124. I regret buying that expensive shirt without checking the price.
+       ➔ **I wish I hadn't bought that expensive shirt without checking the price.**
+  125. It's a pity I didn't review the irregular verbs carefully.
+       ➔ **I wish I had reviewed the irregular verbs carefully.**
+
+### Dạng 51: Cấu trúc Giả định (`It's high time + S + V2/ed` & `I'd rather + S2 + V2/ed`)
+- **Quy tắc thép:**
+  - **Đã đến lúc ai đó phải làm gì:** `You should + V-bare right now` ⟷ **`It's time for you to + V-bare`** ⟷ **`It's (high / about) time + you + V2/ed`!** *(Dù nói về hiện tại nhưng sau `It's time + S` bắt buộc chia **Quá khứ đơn V2/ed**!)*.
+  - **Muốn người khác làm gì / đừng làm gì:** `Please don't + V-bare` ⟷ **`I'd rather you didn't + V-bare`**.
+  126. You should go to bed and rest now.
+       ➔ **It's time for you to go to bed and rest.**
+       ➔ **It's (high) time you WENT to bed and rested.**
+  127. Please don't smoke inside the dining room.
+       ➔ **I'd rather you DIDN'T smoke inside the dining room.**
+
+---
+
+# NHÓM 12: THỂ TRUYỀN KHIẾN, ĐỘNG TỪ + GIỚI TỪ, MỤC ĐÍCH & BẢNG 25 PHRASAL VERBS QUY ĐỔI — 9 DẠNG (DẠNG 52 – 60)
+
+### Dạng 52: Nhờ/Thuê người khác làm gì — Thể truyền khiến (`have / get + Vật + V3/ed`)
+- **Quy tắc thép:** Khi mình không tự làm mà thuê thợ làm cho mình:
+  - `Someone / A mechanic + V + my [Vật]` ⟷ **`I have / get + my [Vật] + V3/ed`** *(Chia thì của `have/get` theo thì của câu gốc: Quá khứ dùng `had / got`)*.
+  128. A mechanic repaired my brother's scooter yesterday.
+       ➔ **My brother had (hoặc: got) his scooter repaired yesterday.**
+  129. The hairdresser cuts her hair once a month.
+       ➔ **She has (hoặc: gets) her hair cut once a month.**
+
+### Dạng 53: Các cấu trúc Cảm ơn, Xin lỗi, Chúc mừng, Ngăn cản, Mong đợi (`Verb + Giới từ + V-ING`)
+- **Bảng 8 cấu trúc Giới từ + V-ing cực hay thi B1:**
+  1. **Cảm ơn:** `It was kind of you to V` ➔ **`Thank you FOR + V-ing`**
+  2. **Xin lỗi:** `"I'm sorry I..."` ➔ **`S + apologized (to O) FOR + V-ing`**
+  3. **Chúc mừng:** `"Well done! / Congratulations!"` ➔ **`S + congratulated + O + ON + V-ing`**
+  4. **Ngăn cản:** `A didn't let B + V` / `Because of A, B couldn't V` ➔ **`A prevented / stopped / kept + B + FROM + V-ing`**
+  5. **Đổ lỗi / Buộc tội:** **`blame sb FOR + V-ing`** / **`accuse sb OF + V-ing`**
+  6. **Khăng khăng đòi:** `"I must pay for the coffee"` ➔ **`He insisted ON + paying for the coffee`**
+  7. **Mong ngóng (Cuối thư B1):** `I can't wait to + V` ➔ **`I look forward TO + V-ING`** *(Chú ý: sau `look forward to` bắt buộc là **`V-ING`**!)*
+  8. **Giúp không thể nhịn được:** `couldn't stop + V-ing` ➔ **`couldn't help + V-ing`**
+
+- **Ví dụ thực chiến:**
+  130. It was very kind of Nam to help me review English grammar.
+       ➔ **I thanked Nam for helping me review English grammar.**
+  131. "I'm sorry I arrived late for the film," Robi said to Dani.
+       ➔ **Robi apologized to Dani for arriving late for the film.**
+  132. "Congratulations! You won the final badminton match," the colleague said to me.
+       ➔ **The colleague congratulated me on winning the final badminton match.**
+  133. The heavy rain didn't let us ride our motorbikes to the hills.
+       ➔ **The heavy rain prevented (hoặc: stopped) us from riding our motorbikes to the hills.**
+  134. I can't wait to visit Da Nang with my family next month.
+       ➔ **I am looking forward to visiting Da Nang with my family next month.**
+  135. My friends and I couldn't stop laughing when the kayak spun around.
+       ➔ **My friends and I couldn't help laughing when the kayak spun around.**
+
+### Dạng 54: Cấu trúc Nhớ / Quên / Thừa nhận / Phủ nhận (`remember / forget / remind / admit / deny`)
+  136. "Don't forget to collect the exit ticket inside the supermarket," she said to me.
+       ➔ **She reminded me to collect the exit ticket inside the supermarket.**
+  137. Please remember to bring your college identity card.
+       ➔ **Please don't forget to bring your college identity card.**
+  138. "Yes, I broke the vase," the boy said.
+       ➔ **The boy admitted breaking (hoặc: having broken) the vase.**
+  139. "No, I didn't take your dictionary," he said.
+       ➔ **He denied taking my dictionary.**
+
+### Dạng 55: Chỉ Mục đích (`to V` ⟷ `in order (not) to V` / `so as (not) to V` ⟷ `so that + S + can/could/won't/wouldn't + V`)
+  140. I put on my headphones so that I could focus on my study.
+       ➔ **I put on my headphones in order to (hoặc: so as to / to) focus on my study.**
+  141. She woke up early because she didn't want to miss the morning fog in Da Lat.
+       ➔ **She woke up early in order not to (hoặc: so as not to) miss the morning fog in Da Lat.**
+       ➔ **She woke up early so that she wouldn't miss the morning fog in Da Lat.**
+
+### Dạng 56: Vô ích / Không đáng làm (`It is useless / pointless to V` ⟷ `There is no point in + V-ing` ⟷ `It's no use / no good + V-ing` ⟷ `It's not worth + V-ing`)
+  142. It is useless to complain about the rainy weather.
+       ➔ **There is no point in complaining about the rainy weather.**
+       ➔ **It is no use (hoặc: no good) complaining about the rainy weather.**
+  143. That old ticket is not worth buying on the auction website.
+       ➔ **There is no point in buying that old ticket on the auction website.**
+
+### Dạng 57: Tự mình làm không ai giúp (`without any help` ⟷ `by oneself` ⟷ `on one's own`)
+- **Bảng đại từ phản thân:** `I ➔ by myself`, `you ➔ by yourself`, `he ➔ by himself`, `she ➔ by herself`, `we ➔ by ourselves`, `they ➔ by themselves`.
+  144. Charlie's parents built the wooden windmill without any help.
+       ➔ **Charlie's parents built the wooden windmill by themselves (hoặc: on their own).**
+  145. I cooked this bowl of Pho bo without anyone helping me.
+       ➔ **I cooked this bowl of Pho bo by myself (hoặc: on my own).**
+
+### Dạng 58: Ngay khi... thì... & Mãi cho đến khi (`As soon as` & `Not until`)
+  146. When I listened to the song *Di Ve Nha*, I immediately felt comforted.
+       ➔ **As soon as I listened to the song *Di Ve Nha*, I felt comforted.**
+  147. I didn't buy the wireless headphones until midnight on Black Friday.
+       ➔ **It was not until midnight on Black Friday that I bought the wireless headphones.**
+
+### Dạng 59: Đồng tình Khẳng định & Phủ định (`So do I / too` & `Neither do I / either`)
+  148. I enjoy cool autumn weather, and my best friend does too.
+       ➔ **I enjoy cool autumn weather, and so does my best friend.**
+  149. Lucas doesn't buy tickets on auction sites, and his friends don't either.
+       ➔ **Lucas doesn't buy tickets on auction sites, and neither do his friends.**
+
+---
+
+### Dạng 60: BẢNG VÀNG 25 CẶP CỤM ĐỘNG TỪ (PHRASAL VERBS) & THÀNH NGỮ QUY ĐỔI TRỰC TIẾP TRONG B1
+*(Trong đề thi B1, giám khảo rất thích cho 1 từ ở cột trái và bắt bạn viết lại câu bằng cụm từ ở cột phải hoặc ngược lại!)*
+
+| # | Từ / Cụm từ trong câu gốc | ⟷ | Cụm từ quy đổi trong câu viết lại | Nghĩa tiếng Việt |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **look after** + sb | ⟷ | **take care of** + sb | chăm sóc ai |
+| 2 | **take part in** / **join in** | ⟷ | **participate in** | tham gia vào |
+| 3 | **give up** + V-ing | ⟷ | **stop** + V-ing | từ bỏ làm gì |
+| 4 | **carry on** / **go on** + V-ing | ⟷ | **continue** + V-ing | tiếp tục làm gì |
+| 5 | **put off** + V-ing | ⟷ | **postpone** / **delay** + V-ing | trì hoãn |
+| 6 | **call off** + sth | ⟷ | **cancel** + sth | hủy bỏ |
+| 7 | **find out** | ⟷ | **discover** / **get information** | tìm ra / khám phá |
+| 8 | **turn down** | ⟷ | **refuse** / **reject** | từ chối (hoặc vặn nhỏ âm thanh) |
+| 9 | **run out of** + [danh từ] | ⟷ | **have no [danh từ] left** | hết sạch cái gì |
+| 10 | **make up one's mind** | ⟷ | **decide** | quyết định |
+| 11 | **change one's mind** | ⟷ | **decide not to** | thay đổi quyết định |
+| 12 | **keep in touch with** sb | ⟷ | **stay in contact with** sb | giữ liên lạc với ai |
+| 13 | **get on (well) with** sb | ⟷ | **have a good relationship with** sb | hòa thuận với ai |
+| 14 | **look forward to** + V-ing | ⟷ | **can't wait to** + V / **be excited about** | mong ngóng, háo hức |
+| 15 | **be fond of / keen on / interested in** | ⟷ | **like / love / enjoy** | yêu thích |
+| 16 | **be proud of** | ⟷ | **take pride in** | tự hào về |
+| 17 | **be responsible for** | ⟷ | **be in charge of** | chịu trách nhiệm về |
+| 18 | **be famous / well-known for** | ⟷ | **have a good reputation for** | nổi tiếng về |
+| 19 | **be full of** | ⟷ | **be filled with / crowded with** | đầy / đông nghẹt |
+| 20 | **be fed up with / tired of** | ⟷ | **be bored with / no longer enjoy** | chán ngấy |
+| 21 | **be capable of** + V-ing | ⟷ | **be able to** + V / **can** + V | có khả năng làm gì |
+| 22 | **be short of** + [tiền/thời gian] | ⟷ | **not have enough** + [tiền/thời gian] | thiếu cái gì |
+| 23 | **manage to** + V-bare | ⟷ | **succeed in** + V-ing | xoay xở làm thành công |
+| 24 | **lend** + sb + sth | ⟷ | **borrow** + sth + **from** sb | cho mượn ⟷ mượn từ ai |
+| 25 | **prefer** A **to** B | ⟷ | **like** A **better/more than** B | thích A hơn B |
+
+- **Ví dụ thực chiến từ Bảng 25 Cặp Quy Đổi:**
+  150. Jan Harris wants Zoe to **look after** her son on Saturday night.
+       ➔ **Jan Harris wants Zoe to take care of her son on Saturday night.**
+  151. All visitors are expected to **take part in** research activities.
+       ➔ **All visitors are expected to participate in research activities.**
+  152. We have **run out of** sticky rice and ginger in the kitchen.
+       ➔ **We have no sticky rice and ginger left in the kitchen.**
+  153. Have you **made up your mind** where to go for the summer holiday?
+       ➔ **Have you decided where to go for the summer holiday?**
+  154. I always **get on well with** my neighbors and colleagues.
+       ➔ **I always have a good relationship with my neighbors and colleagues.**
+  155. Despite the difficulty, I **managed to** pass the English exam.
+       ➔ **Despite the difficulty, I succeeded in passing the English exam.**
+  156. Li **lent** Chung a surfing DVD last week.
+       ➔ **Chung borrowed a surfing DVD from Li last week.**
+  157. I am really **proud of** my peaceful hometown in Thai Binh.
+       ➔ **I really take pride in my peaceful hometown in Thai Binh.**
+  158. The night market in Da Lat was **full of** tourists.
+       ➔ **The night market in Da Lat was crowded with (hoặc: filled with) tourists.**
+  159. They had to **call off** the outdoor badminton match because of the storm.
+       ➔ **They had to cancel the outdoor badminton match because of the storm.**
+  160. My father **gave up** smoking five years ago.
+       ➔ **My father stopped smoking five years ago.**
+
+---
+
+# 🎯 BỘ 30 CÂU BÀI TẬP TỔNG DUYỆT TOÀN DIỆN (NHÓM 1 ➔ NHÓM 12)
+*(Dùng để tự kiểm tra phản xạ 60 dạng — Đáp án ở ngay bên dưới)*
+
+1. I started collecting old train tickets five years ago.
+   ➔ `I have ...`
+2. The last time we went kayaking in Ha Long Bay was last summer.
+   ➔ `We haven't ...`
+3. This is the first time I have tasted Banh cay from Thai Binh.
+   ➔ `I have never ...`
+4. When did you buy that blue denim jacket?
+   ➔ `How long have ...?`
+5. Living in a cave home is cooler than living in a normal apartment.
+   ➔ `Living in a normal apartment is not ...`
+6. No mountain in South-East Asia is higher than Mount Kinabalu.
+   ➔ `Mount Kinabalu is ...`
+7. Someone stole my bicycle outside the sports centre yesterday.
+   ➔ `My bicycle ...`
+8. You must show your college identity card at the office.
+   ➔ `Your college identity card must ...`
+9. The box of books was so heavy that she couldn't lift it.
+   ➔ `The box of books was too ...`
+10. My younger brother is too young to ride a scooter.
+    ➔ `My younger brother is not ...`
+11. The scenery in Da Lat was so breathtaking that we took hundreds of photos.
+    ➔ `It was such ...`
+12. If you don't report lost property immediately, you won't find it.
+    ➔ `Unless you ...`
+13. "Do you listen to Den Vau's music every day?" she asked me.
+    ➔ `She asked me if ...`
+14. "Please don't leave your rubbish in the ground-floor hall," the manager said.
+    ➔ `The manager told us ...`
+15. Although the traffic was terrible, we arrived at the cinema on time.
+    ➔ `In spite of ...`
+16. I prefer drinking hot green tea to drinking cold soda.
+    ➔ `I would rather ...`
+17. It takes us three hours to drive from Hanoi to Quang Ninh.
+    ➔ `We spend ...`
+18. Why not sit at this roadside coffee shop until the rain stops?
+    ➔ `How about ...?`
+19. Why don't you review the 30 irregular verbs before the test?
+    ➔ `If I were you, ...`
+20. Could you please wait outside for 15 minutes?
+    ➔ `Would you mind ...?`
+21. How much did those wireless headphones cost on Black Friday?
+    ➔ `What was ...?`
+22. How far is it from your house to the local badminton court?
+    ➔ `What is the ...?`
+23. Whose dictionary is this on the table?
+    ➔ `Who does ...?`
+24. What a pity I don't have enough money to travel abroad this year.
+    ➔ `I wish ...`
+25. A mechanic checked my motorbike brakes two days ago.
+    ➔ `I had my ...`
+26. The bad cold didn't let me go to school last week.
+    ➔ `The bad cold prevented ...`
+27. I can't wait to see my grandparents during the harvest season.
+    ➔ `I am looking forward ...`
+28. We have no milk left in the fridge.
+    ➔ `We have run ...`
+29. Li lent Chung a surfing DVD last Sunday.
+    ➔ `Chung borrowed ...`
+30. Despite being nervous at first, we succeeded in winning the final match.
+    ➔ `Although we ..., we managed ...`
+
+---
+
+### 🔑 ĐÁP ÁN BỘ 30 CÂU TỔNG DUYỆT:
+1. `I have collected (hoặc: been collecting) old train tickets for five years.`
+2. `We haven't gone (hoặc: been) kayaking in Ha Long Bay since last summer.`
+3. `I have never tasted Banh cay from Thai Binh before.`
+4. `How long have you had (hoặc: owned) that blue denim jacket?`
+5. `Living in a normal apartment is not as cool as living in a cave home.`
+6. `Mount Kinabalu is the highest mountain in South-East Asia.`
+7. `My bicycle was stolen outside the sports centre yesterday.`
+8. `Your college identity card must be shown at the office.`
+9. `The box of books was too heavy for her to lift.`
+10. `My younger brother is not old enough to ride a scooter.`
+11. `It was such breathtaking scenery in Da Lat that we took hundreds of photos.` *(scenery không đếm được ➔ không dùng a/an)*.
+12. `Unless you report lost property immediately, you won't find it.`
+13. `She asked me if (hoặc: whether) I listened to Den Vau's music every day.`
+14. `The manager told us not to leave our rubbish in the ground-floor hall.`
+15. `In spite of the terrible traffic, we arrived at the cinema on time.`
+16. `I would rather drink hot green tea than drink cold soda.`
+17. `We spend three hours driving from Hanoi to Quang Ninh.`
+18. `How about sitting at this roadside coffee shop until the rain stops?`
+19. `If I were you, I would review the 30 irregular verbs before the test.`
+20. `Would you mind waiting outside for 15 minutes?`
+21. `What was the price of those wireless headphones on Black Friday?`
+22. `What is the distance from your house to the local badminton court?` *(hoặc: between your house and the local badminton court?)*
+23. `Who does this dictionary on the table belong to?`
+24. `I wish I had enough money to travel abroad this year.`
+25. `I had my motorbike brakes checked two days ago.`
+26. `The bad cold prevented me from going to school last week.`
+27. `I am looking forward to seeing my grandparents during the harvest season.`
+28. `We have run out of milk in the fridge.`
+29. `Chung borrowed a surfing DVD from Li last Sunday.`
+30. `Although we were nervous at first, we managed to win the final match.`
