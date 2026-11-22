@@ -13,7 +13,7 @@
 | Kỹ năng | Mục tiêu cần đạt trước 23:59 ngày 25/11 | Tiến độ hiện tại | Điểm / Tốc độ hiện tại | Đánh giá của Thầy/Cô |
 | :--- | :--- | :---: | :---: | :--- |
 | **SPEAKING (5 Bài Gộp = 10 Đề)** | Thuộc làu 5 Bài Nói Gộp "2-trong-1" (cân trọn 10 đề thi) | `2 / 5 Bài Gộp` | **Gộp #5: 7.5/10 \| Gộp #1: Đã thuộc ý** | 🔥 Đã nhớ ý Đen Vâu *Đi Về Nhà*. Sửa `famous FOR`, `before bedtime` |
-| **WRITING (Câu)** | Phản xạ < 45 giây/câu cho 42 dạng viết lại câu | `16 / 42 dạng` | 🌟 **12/12 cấu trúc (100%)!** | 🔥 Đã xóa sổ hoàn toàn 4 dạng câu hỏi Nhóm 9 (`Would you mind if`, `price`, `distance`, `spend`) |
+| **WRITING (Câu)** | Phản xạ < 45 giây/câu cho 42 dạng viết lại câu | `12 / 42 dạng` | 🌟 **8/8 cấu trúc (100%)!** | ⚠️ Còn nợ 4 câu hỏi `How much/far/spend/mind if` của Chặng 5 |
 | **WRITING (Thư)** | Viết xong 1 bức thư 100 từ trong < 15 phút | `1 / 5 chủ đề` | **Đề 1 (Thư gửi Alex): 7.5/10** | ✅ Đã ghép khung thư chuẩn! Sửa 4 lỗi: `Vietnamese rap`, `one hour + V-ing`, `famous for`, `relieve` |
 | **READING** | Đạt $\ge$ 20/25 câu trong $\le$ 30 phút/đề | `1.5 / 15 đề` | **Part 1: 100% \| Part 2: 7/10 (70%)** | ✅ Đã vượt mốc chuẩn B1 (70%). Chuẩn bị mở Part 3 (Đúng/Sai) |
 | **LISTENING** | Bắt chuẩn 80% keywords & vượt bẫy Distractors | `1 / 8 Units` | 🌟 **4/5 câu (80%)!** | 🔥 Điền từ Part 3 đúng 3/3 (100%)! Lưu ý bẫy `A instead of B` (Chọn A, bỏ B) |
@@ -99,7 +99,48 @@
   1. **Writing (5 câu chốt hạ - 4 phút):** Xóa sổ 2 lỗi nợ cũ (`written`, `not as fast/slow as`) + 3 công thức mới (`Passive was stolen`, `Unless`, `would rather V than V`).
   2. **Reading Part 2 (5 câu đục lỗ - 4 phút):** Câu 6 – 10 Đề 02 (*Living in Cave Homes*).
   3. **Speaking (Bài Gộp #1: `HOBBIES + MUSIC` - Đen Vâu - 7 phút):** Gửi file ghi âm `.m4a` (hoặc gõ 4 câu trụ cột không nhìn tài liệu).
-- **Trạng thái:** ⏳ Đang bấm giờ đếm ngược từ `21:38`...
+#### 🕒 [21:47:54 - 22/11/2026] — NÂNG CẤP FILE VIẾT LẠI CÂU LÊN 42 DẠNG (THÊM NHÓM 9: CÁC DẠNG CÂU HỎI `WHY NOT...?`)
+- **Hành động:** Bổ sung 12 dạng câu hỏi (Dạng 31 – 42, Câu 76 – 105) vào `Tong_Hop_Tat_Ca_Cau_Viet_Lai_Cau_B1.md` và đẩy lên GitHub.
+
+#### 🕒 [22:19:38 - 22/11/2026] — NỘP BÀI & CHẤM ĐIỂM CHẶNG 3 (WRITING + READING PART 2)
+- **Điểm số & Phân tích từng chi tiết:**
+  1. **Reading Part 2 (Đề 02 - Câu 6–10):** 🌟 **4/5 (80%)** (`6-C, 7-D, 8-D [Đáp án: A], 9-B, 10-A`).
+     - Bẫy duy nhất ở Câu 8: `rising` (nội động từ: tự tăng lên, không có tân ngữ phía sau) vs `raising` (ngoại động từ: nâng cái gì lên, phải có tân ngữ phía sau).
+  2. **Writing (5 câu viết lại câu):** Đã nắm đúng **80% khung cấu trúc**, nhưng dính **5 lỗi tiểu tiết "mất điểm oan"** cần triệt tiêu ngay:
+     - **Câu 1:** `He hasn't written to me was since 2021` $\rightarrow$ Đã nhớ `written` (V3) và `since 2021`, nhưng **quên xóa chữ `was`** của câu gốc (`The last time ... was`).
+     - **Câu 2:** `My old bicycle is not as slow as your new motorbike` $\rightarrow$ Đã nhớ dùng tính từ nguyên mẫu giữa `as ... as`, nhưng vì **giữ nguyên chủ ngữ `My old bicycle` ở đầu câu** nên phải đảo sang tính từ trái nghĩa là **`as fast as`** (Xe đạp cũ chậm hơn xe máy = Xe đạp cũ không nhanh bằng xe máy).
+     - **Câu 3:** `My wallet was stole on the bus by someone last night` $\rightarrow$ Dính 2 lỗi: (1) `stole` là V2, bị động phải dùng V3 là **`stolen`**; (2) Chủ ngữ bất định `Someone` thì trong câu bị động **bắt buộc bỏ `by someone`**.
+     - **Câu 4:** `Unless you practice speaking everyday, you will pass the exam` $\rightarrow$ Vế 1 `Unless you practice...` đúng 100%, nhưng vế 2 tự ý đổi `won't pass` thành `will pass` làm ngược nghĩa câu! Quy tắc: **Vế 2 sau dấu phẩy của câu `Unless` phải chép nguyên xi 100% (`you won't pass the exam`)**.
+     - **Câu 5:** `i would rather listen to music to watching TV` $\rightarrow$ Vế đầu `would rather listen` đúng 100%, nhưng vế sau quên đổi `to V-ing` (của `prefer`) thành **`than + V-nguyên mẫu` (`than watch TV`)**.
+- **Chỉ định tiếp theo [22:20 - 22:35]:** Kích hoạt **Chặng 4 (Phục thù 5 tiểu tiết Writing + 3 câu hỏi `Why not/Mind` + 5 câu cuối Reading Part 2 Đề 02 Câu 11–15 + Trả nợ Speaking Gộp #1)**.
+
+#### 🕒 [22:32:27 - 22/11/2026] — NỘP BÀI & CHẤM ĐIỂM CHẶNG 4 (BỨT PHÁ WRITING LÊN 8/8 CẤU TRÚC!)
+- **Thời gian hoàn thành thực tế:** **12 phút 00 giây** *(Đúng chuẩn từng giây hạn định 22:32!)*.
+- **Điểm số & Phân tích chi tiết:**
+  1. **Writing (8 câu):** 🌟 **8/8 CẤU TRÚC NGỮ PHÁP ĐÚNG 100%!**
+     - Đã xóa sạch toàn bộ 5 lỗi tiểu tiết của Chặng 3 (Bỏ được `was`, dùng chuẩn `not as expensive as`, chia đúng `was broken` và bỏ `by someone`, giữ nguyên vế 2 của `Unless`, dùng chuẩn `would rather play ... than swim`, và làm đúng 100% cả 3 câu hỏi `How about going...`, `If I were you, I would buy...`, `Would you mind opening...`).
+     - *Chỉ lưu ý 2 lỗi chính tả nhỏ:* `eaten` chỉ có 1 chữ `t` (không phải `eatten`), và `plane` (máy bay - chép từ đề bài, không phải `plain`).
+  2. **Reading Part 2 (Câu 11–15 Đề 02):** **3/5 (60%)** ➔ Tổng kết cả bài Part 2 Đề 02 đạt **7/10 (70% - Vượt chuẩn B1!)**.
+     - Đúng: `12-B (Internet connection)`, `14-D (make more space)`, `15-A (can be)`.
+     - 2 cụm từ vựng cần nạp vào não:
+       - Câu 11: **`almost every day`** (hầu như mỗi ngày — vì `day` là số ít nên đi với `every`, còn `some` phải đi với `days` số nhiều).
+       - Câu 13: **`Since` ở đầu câu = `Because` (Bởi vì)** (*"Since the bedrooms are very quiet..., people love sleeping in them"*).
+- **Chỉ định tiếp theo [22:33 - 22:48]:** Kích hoạt **Chặng 5 (Mở khóa Viết Thư 100 từ + 5 Câu Listening Chống Bẫy + Speaking Bài Gộp #1 Đen Vâu)**.
+
+#### 🕒 [22:53:33 - 22/11/2026] — NỘP BÀI & CHẤM ĐIỂM CHẶNG 5 (MỞ KHÓA VIẾT THƯ B1 & LISTENING ĐẠT 80%!)
+- **Điểm số & Phân tích từng kỹ năng:**
+  1. **Listening (5 câu chống bẫy Distractor):** 🌟 **4/5 (80% - Vượt chuẩn B1!)**
+     - Đúng tuyệt đối 4 câu: `L1-C (bicycle)`, `L3-second`, `L4-20`, `L5-Customer`.
+     - Sập 1 bẫy duy nhất ở `L2`: Cụm **`at 5:15 instead of 5:30`** (*gặp lúc 5:15 **thay vì** 5:30*). Quy tắc: **`A instead of B` = Chọn A, gạch bỏ B!**
+  2. **Writing Thư B1 & Khung Speaking Gộp #1 (Đen Vâu):** 🌟 **7.5/10**
+     - Học viên đã tự viết được toàn bộ ý lõi của Bài Gộp #1 lắp vào thư gửi Alex!
+     - **4 lỗi ngữ pháp/từ vựng cần sửa để cả bài Viết Thư lẫn bài Nói đạt 10/10:**
+       1. `the rap's of Việt Nam` ❌ $\rightarrow$ Sửa thành: **`Vietnamese rap`** ✅ (Tính từ chỉ quốc tịch đứng trước danh từ).
+       2. `a hour to listen on the bus or before beding` ❌ $\rightarrow$ Sửa thành: **`one hour listening to music on the bus or before bedtime`** ✅ (`spend + thời gian + V-ing`; không có từ `beding`, trước giờ đi ngủ là `before bedtime` hoặc `before going to sleep`).
+       3. `famous with Di Ve Nha Song` ❌ $\rightarrow$ Sửa thành: **`who is famous for the song 'Di Ve Nha'`** ✅ (Nổi tiếng về cái gì BẮT BUỘC dùng **`famous FOR`**!).
+       4. `helps me relive stress, relax my mind, and had more energy to continue studdying hard` ❌ $\rightarrow$ Sửa thành: **`helps me relieve stress, relax my mind, and have more energy to continue studying hard`** ✅ (`relieve` có chữ `e`; `have` nguyên mẫu song song với `relieve, relax`; `studying` chỉ có 1 chữ `d`).
+  3. **Writing Câu hỏi (4 câu Nhóm 9):** Học viên chưa nộp ở lượt vừa rồi $\rightarrow$ Chuyển sang đầu Chặng 6!
+- **Chỉ định tiếp theo [22:54 - 23:08]:** Kích hoạt **Chặng 6 (Trả nợ 4 câu hỏi Writing + Sửa nhanh 4 cụm trong Thư/Speaking + Mở khóa Reading Part 3 Đúng/Sai Đề 02)**.
 
 ---
 
