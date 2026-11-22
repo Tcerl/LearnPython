@@ -87,7 +87,19 @@
   2. **Ca 2 (Writing - 20 phút):** Giải **15 câu Viết lại câu tổng hợp** + Hoàn thành **1 bức thư 100 từ gửi Alex** (áp dụng ngay nội dung Bài Gộp #1 vào khung thư thần chú).
   3. **Ca 3 (Reading - 30 phút):** Giải trọn vẹn **30 câu Đề Thi Số 02 (Full 4 Parts: Biển báo, Nhà hang động, Đảo Borneo, Sưu tầm vé tàu)**.
   4. **Ca 4 (Listening - 10 phút):** Giải **5 câu bắt Keywords & chống bẫy Distractor** (`L1 – L5`).
-- **Hẹn giờ kiểm tra tiếp theo:** ⏰ **12:00 Trưa ngày 22/11/2026** — Học viên nộp Phiếu Trả Lời Nhanh + File ghi âm Speaking để Thầy/Cô chấm điểm tổng kết Ca Đi Làm!
+- **Hẹn giờ kiểm tra tiếp theo:** ⏰ Học viên đi làm về và tái kích hoạt lúc **21:38 tối ngày 22/11/2026**!
+
+---
+
+### 📅 NGÀY 2: 22/11/2026 (CÒN 74 GIỜ TRƯỚC KHI KẾT THÚC 25/11!)
+
+#### 🕒 [21:38:17 - 22/11/2026] — TÁI KÍCH HOẠT CA ĐÊM NGÀY 2 & MỞ CHẶNG 3 (SPRINT 3)
+- **Thời gian quy định:** 15 phút (Hạn nộp: **21:54**)
+- **Nội dung sát hạch Chặng 3 (Kiểm tra thu hoạch sau Ca Đi Làm):**
+  1. **Writing (5 câu chốt hạ - 4 phút):** Xóa sổ 2 lỗi nợ cũ (`written`, `not as fast/slow as`) + 3 công thức mới (`Passive was stolen`, `Unless`, `would rather V than V`).
+  2. **Reading Part 2 (5 câu đục lỗ - 4 phút):** Câu 6 – 10 Đề 02 (*Living in Cave Homes*).
+  3. **Speaking (Bài Gộp #1: `HOBBIES + MUSIC` - Đen Vâu - 7 phút):** Gửi file ghi âm `.m4a` (hoặc gõ 4 câu trụ cột không nhìn tài liệu).
+- **Trạng thái:** ⏳ Đang bấm giờ đếm ngược từ `21:38`...
 
 ---
 

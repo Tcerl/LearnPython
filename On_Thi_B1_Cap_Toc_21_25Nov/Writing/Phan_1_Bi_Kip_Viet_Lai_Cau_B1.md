@@ -1,8 +1,8 @@
-# 📚 TỔNG HỢP TOÀN BỘ 30 DẠNG VIẾT LẠI CÂU B1 & 100 CÂU MẪU SÁT ĐỀ THI
-### (Tài liệu tra cứu toàn diện 100% các dạng Sentence Transformation có thể xuất hiện trong đề thi B1)
+# 📚 TỔNG HỢP TOÀN BỘ 42 DẠNG VIẾT LẠI CÂU B1 & 115 CÂU MẪU SÁT ĐỀ THI
+### (Tài liệu tra cứu toàn diện 100% các dạng Sentence Transformation & Câu Hỏi `Why not / Would you mind / How much...` trong đề thi B1)
 
-> 💡 **CÁCH HỌC NHANH TRONG LÚC NGHỈ NGƠI**:
-> Mọi câu viết lại câu trong đề thi B1 đều chỉ xoay quanh **8 NHÓM CHỦ ĐIỂM (30 CÔNG THỨC)** và **Bảng 25 Động Từ Bất Quy Tắc Hay Ra Thi Nhất** dưới đây. Mỗi công thức đều có **Dấu hiệu nhận biết ➔ Công thức biến đổi ➔ Câu mẫu thực chiến Đề gốc & Đáp án**.
+> 💡 **CÁCH HỌC NHANH**:
+> Mọi câu viết lại câu trong đề thi B1 đều xoay quanh **9 NHÓM CHỦ ĐIỂM (42 CÔNG THỨC — Đặc biệt Nhóm 9 chuyên trị mọi dạng Câu Hỏi như `Why not...?`, `Why don't we/you...?`, `Would you mind...?`, `Would you like...?`, `How much/far/long/tall...`)** và **Bảng 30 Động Từ Bất Quy Tắc Hay Ra Thi Nhất** dưới đây.
 
 ---
 
@@ -325,3 +325,215 @@
   75. **What is the price of ...? / How much does ... cost?** ⟷ **How much is ...?**
       - *Ví dụ:* How much did that pair of wireless headphones cost?
       - ➔ **What was the price of that pair of wireless headphones?**
+
+
+---
+
+# NHÓM 9: CHUYÊN ĐỀ VIẾT LẠI TẤT CẢ CÁC DẠNG CÂU HỎI (`WHY NOT...?`, RỦ RÊ, NHỜ VẢ, MỜI MỌC & HỎI THÔNG TIN) — 12 DẠNG (DẠNG 31 – 42)
+
+> 🔥 **ĐÂY LÀ NHÓM CHUYÊN TRỊ MỌI CÂU HỎI TRONG ĐỀ THI B1**: Khi đề bài cho một câu hỏi (có dấu `?`), bạn cần xác định ngay nó thuộc **Câu hỏi rủ rê/khuyên nhủ (`Why not / Why don't we / Why don't you`)**, **Câu hỏi nhờ vả/xin phép (`Could you / Would you mind`)**, **Câu hỏi mời mọc (`Would you like`)**, hay **Câu hỏi thông tin (`How much / far / long / tall / old / Why / Whose`)** để áp dụng bảng công thức quy đổi tương đương dưới đây!
+
+---
+
+### Dạng 31A: Câu hỏi Rủ rê cùng làm (`Why not + V-bare?` / `Why don't we + V-bare?`)
+- **Bảng 7 cấu trúc tương đương 100% (Học thuộc như bảng cửu chương!):**
+  1. **`Why not + V-nguyên mẫu ...?`** *(Tại sao không...?)*
+  2. ⟷ **`Why don't we + V-nguyên mẫu ...?`** *(Tại sao chúng ta không...?)*
+  3. ⟷ **`Shall we + V-nguyên mẫu ...?`** *(Chúng ta cùng... nhé?)*
+  4. ⟷ **`Let's + V-nguyên mẫu ...!`** *(Hãy cùng... nào! — Câu cầu khiến, kết thúc bằng dấu chấm)*
+  5. ⟷ **`How about + V-ING ...?`** *(Còn việc... thì sao?)*
+  6. ⟷ **`What about + V-ING ...?`** *(Thế còn việc... thì sao?)*
+  7. ⟷ **`I suggest + V-ING ...`** / **`I suggest (that) we (should) + V-nguyên mẫu ...`** *(Tôi đề nghị...)*
+
+- **Ví dụ thực chiến:**
+  76. **Why not** go to Ha Long Bay this weekend?
+      ➔ **Why don't we go to Ha Long Bay this weekend?**
+      ➔ **Shall we go to Ha Long Bay this weekend?**
+      ➔ **Let's go to Ha Long Bay this weekend.**
+      ➔ **How about (hoặc: What about) going to Ha Long Bay this weekend?**
+      ➔ **I suggest going to Ha Long Bay this weekend.**
+  77. **Why don't we** play badminton at the local court this afternoon?
+      ➔ **Why not play badminton at the local court this afternoon?**
+      ➔ **What about playing badminton at the local court this afternoon?**
+  78. **Shall we** cook a hot bowl of beef Pho for dinner?
+      ➔ **Let's cook a hot bowl of beef Pho for dinner.**
+      ➔ **How about cooking a hot bowl of beef Pho for dinner?**
+
+---
+
+### Dạng 31B: Câu hỏi Khuyên người khác (`Why don't you + V-bare?` / `Why not + V-bare?`)
+- **Quy tắc thép:** Khi chủ ngữ là **`you`** (`Why don't you...?` = Sao bạn không...?), mục đích là **KHUYÊN NHỦ** người đối diện:
+  1. **`Why don't you + V-nguyên mẫu ...?`** / **`Why not + V-nguyên mẫu ...?`**
+  2. ⟷ **`If I were you, I would + V-nguyên mẫu ...`** *(Nếu tôi là bạn, tôi sẽ...)*
+  3. ⟷ **`You should / ought to / had better + V-nguyên mẫu ...`** *(Bạn nên...)*
+  4. ⟷ **`I advise you to + V-nguyên mẫu ...`** *(Tôi khuyên bạn nên...)*
+  5. ⟷ **`I suggest (that) you (should) + V-nguyên mẫu ...`** *(Lưu ý: Khuyên người khác thì sau `suggest` KHÔNG dùng `V-ing`, mà phải dùng `suggest that you should + V`!)*
+  6. ⟷ **`It would be a good idea (for you) to + V-nguyên mẫu ...`**
+
+- **Ví dụ thực chiến:**
+  79. **Why don't you** buy that blue denim jacket on Shopee?
+      ➔ **If I were you, I would buy that blue denim jacket on Shopee.**
+      ➔ **You should (hoặc: had better) buy that blue denim jacket on Shopee.**
+      ➔ **I advise you to buy that blue denim jacket on Shopee.**
+      ➔ **I suggest that you should buy that blue denim jacket on Shopee.**
+  80. "**Why not** take a short rest before studying again?" the teacher said to me.
+      ➔ **The teacher advised me to take a short rest before studying again.**
+
+---
+
+### Dạng 32: Câu hỏi Mời mọc / Đề nghị lịch sự (`Would you like...?` / `Do you want...?`)
+- **Bảng quy đổi:**
+  - **`Would you like to + V-nguyên mẫu ...?`** ⟷ **`Do you want to + V-nguyên mẫu ...?`**
+  - ⟷ **`Do you fancy + V-ING ...?`** / **`Do you feel like + V-ING ...?`** *(Bạn có hứng thú làm gì không?)*
+  - **Chuyển sang câu tường thuật:**
+    - `"Would you like to + V-bare?"` ➔ **`S + invited + O + to V-bare`** *(Mời ai làm gì)*
+    - `"Would you like + Danh từ (a cup of tea / some cake)?"` ➔ **`S + offered + O + Danh từ`** *(Mời ai ăn/uống cái gì)*
+    - `"Shall I / Can I help you + V-bare?"` ➔ **`S + offered to + V-bare`** *(Đề nghị giúp ai làm gì)*
+
+- **Ví dụ thực chiến:**
+  81. **Would you like to** go to the acoustic concert with me tonight?
+      ➔ **Do you fancy (hoặc: feel like) going to the acoustic concert with me tonight?**
+      ➔ **He invited me to go to the acoustic concert with him that night.**
+  82. "**Would you like** a cup of hot green tea?" my grandfather asked me.
+      ➔ **My grandfather offered me a cup of hot green tea.**
+  83. "**Shall I** carry this heavy bag for you?" Nam said to her.
+      ➔ **Nam offered to carry that heavy bag for her.**
+
+---
+
+### Dạng 33: Câu hỏi Nhờ vả & Xin phép lịch sự (`Could you...?` / `Can I...?` ⟷ `Would / Do you mind...?`)
+- **2 QUY TẮC SỐNG CÒN VỚI `MIND` (Có phiền không?):**
+  1. **Nhờ người khác làm gì (`Could / Will / Can you please + V-bare?`):**
+     ➔ **`Would you mind + V-ING ...?`** / **`Do you mind + V-ING ...?`**
+     *(Nếu nhờ ĐỪNG làm gì: `Please don't + V` ➔ `Would you mind NOT + V-ING ...?`)*
+  2. **Xin phép MÌNH làm gì (`Can / May / Could I + V-bare?`):**
+     ➔ **`Do you mind if I + V-hiện tại đơn (V1)?`**
+     ➔ **`Would you mind if I + V-quá khứ đơn (V2/ed)?`** *(Cực kỳ chú ý: `Would` là quá khứ nên sau `if I` phải lùi về **V2/ed**!)*
+
+- **Ví dụ thực chiến:**
+  84. **Could you please** open the window?
+      ➔ **Would (hoặc: Do) you mind opening the window?**
+  85. Please **don't** play loud music at midnight.
+      ➔ **Would you mind NOT playing loud music at midnight?**
+  86. **Can I** borrow your old bicycle this morning?
+      ➔ **Do you mind if I borrow your old bicycle this morning?**
+      ➔ **Would you mind if I BORROWED your old bicycle this morning?** *(Lùi thì `borrowed` vì có `Would`!)*.
+
+---
+
+### Dạng 34: Câu hỏi Giá tiền (`How much...?` ⟷ `What is the price of...?`)
+- **Công thức quy đổi 3 chiều:**
+  - **`How much is / are + [vật]?`** *(Động từ to be)*
+  - ⟷ **`How much does / do + [vật] + cost?`** *(Động từ thường `cost`)*
+  - ⟷ **`What is the price of + [vật]?`** *(Danh từ `the price of`)*
+  - *(Ở thì Quá khứ đơn: `How much was...?` ⟷ `How much did ... cost?` ⟷ `What was the price of...?`)*
+
+- **Ví dụ thực chiến:**
+  87. **How much is** this blue denim jacket?
+      ➔ **How much does this blue denim jacket cost?**
+      ➔ **What is the price of this blue denim jacket?**
+  88. **How much did** you pay for those wireless headphones?
+      ➔ **What was the price of those wireless headphones?**
+
+---
+
+### Dạng 35: Câu hỏi Khoảng cách (`How far...?` ⟷ `What is the distance...?`)
+- **Công thức:**
+  - **`How far is it from A to B?`**
+  - ⟷ **`What is the distance from A to B?`** (hoặc: **`between A and B?`**)
+  89. **How far is it** from Hanoi to Thai Binh province?
+      ➔ **What is the distance from Hanoi to Thai Binh province?** *(hoặc: between Hanoi and Thai Binh province?)*
+
+---
+
+### Dạng 36: Câu hỏi Thời gian tiêu tốn (`How long does it take...?` ⟷ `How much time do you spend...?`)
+- **Công thức:**
+  - **`How long does it take + O + to V?`**
+  - ⟷ **`How much time do/does + S + spend + V-ING?`**
+  90. **How long does it take** you to travel to your hometown by bus?
+      ➔ **How much time do you spend traveling to your hometown by bus?**
+
+---
+
+### Dạng 37: Câu hỏi Thời điểm bắt đầu ⟷ Khoảng thời gian (`When did you...?` ⟷ `How long have you...?`)
+- **Công thức:**
+  - **`When did + S + start / begin + V-ing / to V?`** ⟷ **`How long have / has + S + V3/ed (hoặc: been V-ing)?`**
+  - **`How long ago did + S + V-bare?`** ⟷ **`When did + S + V-bare?`**
+  91. **When did** you start playing badminton with Nam?
+      ➔ **How long have you played (hoặc: been playing) badminton with Nam?**
+  92. **When did** you buy that smartphone?
+      ➔ **How long have you had that smartphone?**
+      ➔ **How long ago did you buy that smartphone?**
+
+---
+
+### Dạng 38: Câu hỏi Kích thước, Chiều cao, Cân nặng, Độ sâu, Tuổi tác (`How + Tính từ...?` ⟷ `What is the + Danh từ...?`)
+- **Bảng chuyển đổi Tính từ ➔ Danh từ bắt buộc thuộc:**
+  - `How old` (Bao nhiêu tuổi) ⟷ **`What ... age`** (`What is your age?`)
+  - `How tall / high` (Cao bao nhiêu) ⟷ **`What is the height of...`**
+  - `How heavy` / `How much ... weigh` (Nặng bao nhiêu) ⟷ **`What is the weight of...`**
+  - `How long` (Dài bao nhiêu) ⟷ **`What is the length of...`**
+  - `How wide` (Rộng bao nhiêu) ⟷ **`What is the width of...`**
+  - `How deep` (Sâu bao nhiêu) ⟷ **`What is the depth of...`**
+  - `How big` (To cỡ nào) ⟷ **`What is the size of...`**
+
+- **Ví dụ thực chiến:**
+  93. **How high is** Mount Kinabalu?
+      ➔ **What is the height of Mount Kinabalu?**
+  94. **How heavy is** your luggage? *(hoặc: How much does your luggage weigh?)*
+      ➔ **What is the weight of your luggage?**
+  95. **How old is** this wooden windmill?
+      ➔ **What is the age of this wooden windmill?**
+  96. **How long are** the windmill's sails?
+      ➔ **What is the length of the windmill's sails?**
+
+---
+
+### Dạng 39: Câu hỏi Nguyên nhân & Mục đích (`Why...?` ⟷ `What... for?` / `What was the reason...?`)
+- **Công thức:**
+  - Hỏi mục đích: **`Why did you + V...?`** ⟷ **`What did you + V + FOR?`** *(Để làm gì?)*
+  - Hỏi lý do: **`Why did you + V...?`** ⟷ **`What was the reason for + Danh từ / V-ing?`** ⟷ **`What made you + V-nguyên mẫu?`**
+  97. **Why did** you go to the post office yesterday?
+      ➔ **What did you go to the post office yesterday FOR?**
+  98. **Why did** she leave the party so early?
+      ➔ **What made her leave the party so early?**
+
+---
+
+### Dạng 40: Câu hỏi Quyền sở hữu (`Whose...?` ⟷ `Who does ... belong to?`)
+- **Công thức:**
+  - **`Whose + [Danh từ] + is this / is that?`**
+  - ⟷ **`Who does this / that + [Danh từ] + belong to?`**
+  - ⟷ **`Who is the owner of this / that + [Danh từ]?`**
+  99. **Whose** scooter is this?
+      ➔ **Who does this scooter belong to?**
+      ➔ **Who is the owner of this scooter?**
+
+---
+
+### Dạng 41: Câu hỏi Nghề nghiệp, Thời tiết, Ngoại hình & Tính cách (`What / How...?`)
+- **Bảng quy đổi:**
+  100. **What does** your father **do**? *(Hỏi nghề nghiệp)*
+       ➔ **What is your father's job (hoặc: occupation)?**
+  101. **What is** the weather **like** in Da Lat today? *(Hỏi thời tiết)*
+       ➔ **How is the weather in Da Lat today?**
+  102. **What is** your best friend **like**? *(Hỏi tính cách: `be like`)*
+       ➔ **What is your best friend's personality?**
+  103. **What does** your best friend **look like**? *(Hỏi ngoại hình: `look like`)*
+       ➔ **What is your best friend's appearance?**
+
+---
+
+### Dạng 42: Câu Cảm thán & Câu hỏi Phủ định (`What a...!` ⟷ `How...!` ⟷ `Isn't it...?`)
+- **Công thức:**
+  - **`S + be + very / so + adj`**
+  - ⟷ **`What + (a/an) + adj + Danh từ!`**
+  - ⟷ **`How + adj + S + be!`**
+  - ⟷ **`Isn't / Aren't / Wasn't + S + adj?`**
+  104. The sunset over Ha Long Bay is very breathtaking.
+       ➔ **What a breathtaking sunset over Ha Long Bay!**
+       ➔ **How breathtaking the sunset over Ha Long Bay is!**
+       ➔ **Isn't the sunset over Ha Long Bay breathtaking?**
+  105. The Banh cay in Thai Binh is so delicious!
+       ➔ **What delicious Banh cay in Thai Binh!** *(Banh cay không đếm được nên không dùng a/an)*
+       ➔ **How delicious the Banh cay in Thai Binh is!**
