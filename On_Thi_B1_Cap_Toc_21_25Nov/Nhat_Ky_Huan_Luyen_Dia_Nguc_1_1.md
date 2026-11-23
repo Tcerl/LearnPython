@@ -13,7 +13,7 @@
 | Kỹ năng | Mục tiêu cần đạt trước 23:59 ngày 25/11 | Tiến độ hiện tại | Điểm / Tốc độ hiện tại | Đánh giá của Thầy/Cô |
 | :--- | :--- | :---: | :---: | :--- |
 | **SPEAKING (5 Bài Gộp = 10 Đề)** | Thuộc làu 5 Bài Nói Gộp "2-trong-1" (cân trọn 10 đề thi) | `2 / 5 Bài Gộp` | **Gộp #5: 7.5/10 \| Gộp #1: Đã thuộc ý** | 🔥 Đã nhớ ý Đen Vâu *Đi Về Nhà*. Sửa `famous FOR`, `before bedtime` |
-| **WRITING (Câu)** | Phản xạ < 45 giây/câu cho 42 dạng viết lại câu | `12 / 42 dạng` | 🌟 **8/8 cấu trúc (100%)!** | ⚠️ Còn nợ 4 câu hỏi `How much/far/spend/mind if` của Chặng 5 |
+| **WRITING (Câu)** | Phản xạ < 45 giây/câu cho 42 dạng viết lại câu | `16 / 42 dạng` | 🌟 **12/12 cấu trúc (100%)!** | 🔥 Đã xóa sổ hoàn toàn 4 dạng câu hỏi Nhóm 9 (`Would you mind if`, `price`, `distance`, `spend`) |
 | **WRITING (Thư)** | Viết xong 1 bức thư 100 từ trong < 15 phút | `1 / 5 chủ đề` | **Đề 1 (Thư gửi Alex): 7.5/10** | ✅ Đã ghép khung thư chuẩn! Sửa 4 lỗi: `Vietnamese rap`, `one hour + V-ing`, `famous for`, `relieve` |
 | **READING** | Đạt $\ge$ 20/25 câu trong $\le$ 30 phút/đề | `1.5 / 15 đề` | **Part 1: 100% \| Part 2: 7/10 (70%)** | ✅ Đã vượt mốc chuẩn B1 (70%). Chuẩn bị mở Part 3 (Đúng/Sai) |
 | **LISTENING** | Bắt chuẩn 80% keywords & vượt bẫy Distractors | `1 / 8 Units` | 🌟 **4/5 câu (80%)!** | 🔥 Điền từ Part 3 đúng 3/3 (100%)! Lưu ý bẫy `A instead of B` (Chọn A, bỏ B) |
@@ -28,8 +28,8 @@
 | **GỘP #1** | **Topic 2 (Hobbies)** + **Topic 4 (Music)** | Nghe nhạc Acoustic & Rap **Đen Vâu** (*Đi Về Nhà*), giải tỏa stress mùa thi | ⏳ Chờ trả bài | - |
 | **GỘP #2** | **Topic 5 (Shopping)** + **Topic 9 (Clothing)** | Săn sale Shopee đêm Black Friday mua **Áo khoác bò xanh** lương tháng đầu, mặc đi phỏng vấn | ⏳ Chờ trả bài | - |
 | **GỘP #3** | **Topic 6 (Sports)** + **Topic 10 (Best Friend)** | Chơi **Cầu lông (Badminton)** cùng bạn thân **Nam**, động viên nhau thắng giải & vượt qua kỳ thi | ⏳ Chờ trả bài | - |
-| **GỘP #4** | **Topic 3 (Travel)** + **Topic 8 (Weather)** | Tiết trời **mát mẻ 23 độ C** (Mùa thu Hà Nội / Đà Lạt), đi dạo hồ, ngồi cafe uống trà gừng với bạn | ⏳ Chờ trả bài | - |
-| **GỘP #5** | **Topic 1 (Hometown)** + **Topic 7 (Food)** | Quê hương **Đông Hưng, Thái Bình** mùa gặt & món **Phở bò / Bánh cáy** ấm áp tình cảm gia đình | ✅ Đã thu âm Lần 1 (`03:02`) | **7.5 / 10** *(Sửa 10 từ phát âm)* |
+| **GỘP #4** | **Topic 3 (Travel)** + **Topic 8 (Weather)** | Tiết trời **mát mẻ 22°C** trên núi **Tam Đảo (Vĩnh Phúc)** / mùa thu, đi dạo, ngồi cafe sườn núi uống trà gừng với bạn | ⏳ Chờ trả bài | - |
+| **GỘP #5** | **Topic 1 (Hometown)** + **Topic 7 (Food)** | Quê hương **Đông Hưng, Thái Bình** mùa gặt & đặc sản **Bánh Cáy** ấm áp tình cảm gia đình | 🌟 Đã tối ưu (Bỏ Phở bò, chỉ giữ Bánh cáy) | **8.5 / 10** *(Dễ phát âm hơn 100%)* |
 
 ---
 
@@ -141,6 +141,23 @@
        4. `helps me relive stress, relax my mind, and had more energy to continue studdying hard` ❌ $\rightarrow$ Sửa thành: **`helps me relieve stress, relax my mind, and have more energy to continue studying hard`** ✅ (`relieve` có chữ `e`; `have` nguyên mẫu song song với `relieve, relax`; `studying` chỉ có 1 chữ `d`).
   3. **Writing Câu hỏi (4 câu Nhóm 9):** Học viên chưa nộp ở lượt vừa rồi $\rightarrow$ Chuyển sang đầu Chặng 6!
 - **Chỉ định tiếp theo [22:54 - 23:08]:** Kích hoạt **Chặng 6 (Trả nợ 4 câu hỏi Writing + Sửa nhanh 4 cụm trong Thư/Speaking + Mở khóa Reading Part 3 Đúng/Sai Đề 02)**.
+
+---
+
+### 📅 NGÀY 3: 23/11/2026 (CÒN CHƯA ĐẦY 60 GIỜ TRƯỚC GIỜ G!)
+
+#### 🕒 [09:48:38 - 23/11/2026] — NỘP BÀI & CHẤM ĐIỂM CHẶNG 6 (WRITING PHẦN 1 & PHẦN 2)
+- **Điểm số & Phân tích chi tiết:**
+  1. **Writing 4 câu hỏi Nhóm 9 (Phần 1):** 🌟 **4/4 (100% XUẤT SẮC!)**
+     - Câu 1: `Would you mind if I borrowed your old bicycle this morning?` ➔ Tuyệt vời! Bắt đúng 100% bẫy lùi thì sang quá khứ `borrowed` sau `Would you mind if`.
+     - Câu 2: `What is the price of this blue denim jacket?` ➔ Đúng 100%.
+     - Câu 3: `What is the distance from Hanoi to Thai Binh province?` ➔ Đúng 100%.
+     - Câu 4: `How much time do you spend traveling to school by bus?` ➔ Đúng 100% cấu trúc `spend + V-ing`.
+  2. **Xóa lỗi Thù vặt (Phần 2):** **2.5 / 4**
+     - Câu 1 (`Vietnamese rap`) & Câu 3 (`famous for`): **ĐÚNG 100% — Xóa án!**
+     - Câu 2: Còn bỏ trống ➔ Đáp án: **`before bedtime`** (trước giờ đi ngủ).
+     - Câu 4: `have studying` ➔ `have` đúng, nhưng sau `to` chỉ mục đích phải là động từ nguyên mẫu: **`to study hard`** (Học viên đã sửa được lỗi chính tả bỏ bớt 1 chữ `d` trong `studying`, rất tốt!).
+  3. **Reading Part 3 (Câu 16–25 Đề 02 - Đảo Borneo):** ⏳ Học viên đang đọc ở dòng 216 và chuẩn bị nộp dãy 10 đáp án A/B!
 
 ---
 

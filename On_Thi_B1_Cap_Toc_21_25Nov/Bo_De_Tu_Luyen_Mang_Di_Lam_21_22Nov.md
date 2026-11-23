@@ -1,7 +1,9 @@
 # 💼 BỘ ĐỀ TỰ LUYỆN MANG ĐI LÀM (14:06 NGÀY 21/11 ➔ 12:00 TRƯA 22/11)
+
 ### (Thiết kế chia thành 4 Ca ngắn 15–20 phút để tranh thủ ôn luyện lúc giải lao tại chỗ làm hoặc buổi tối)
 
 > 🎯 **MỤC TIÊU KHI QUAY LẠI LÚC 12:00 TRƯA MAI (22/11)**:
+>
 > 1. **Speaking:** Thuộc làu thêm **2 Bài Nói Gộp (Bài Gộp #1: Đen Vâu & Bài Gộp #2: Săn sale Shopee Áo khoác bò xanh)** = Nâng tổng số đề chinh phục lên **6/10 đề**!
 > 2. **Writing:** Giải gọn **15 câu Viết lại câu tổng hợp** + Hoàn thành **1 bức thư 100 từ** theo khung điền khuyết.
 > 3. **Reading:** Giải trọn vẹn **30 câu Đề Thi Số 02 (Full 4 Parts)** bấm giờ 35 phút.
@@ -14,6 +16,7 @@
 # 🕒 CA TỰ LUYỆN 1 (15 PHÚT GIẢI LAO CHIỀU 21/11): SPEAKING BỎ TÚI
 
 ### Nhiệm vụ 1A: Đọc to 3 lần "10 Từ Phục Thù Phát Âm" của Ca Sáng
+
 1. **`especially`** ➔ đọc là: **i-SPÉ-shơ-li** (`/ɪˈspeʃ.əl.i/`)
 2. **`a hot bowl`** ➔ đọc là: **ơ HÓT bâu-l** *(1 bát nóng)*
 3. **`a rich, sweet broth`** ➔ đọc là: **ơ RÍCH, suýt BRO-TH** *(nước dùng đậm đà)*
@@ -28,6 +31,7 @@
 ---
 
 ### Nhiệm vụ 1B: Nhẩm thuộc lòng "BÀI GỘP SỐ 1" (`HOBBIES + MUSIC`: Đen Vâu)
+
 *(Chỉ cần học 1 bài này là trả lời được cả Đề 2: Hobbies lẫn Đề 4: Music!)*
 
 - **Câu mở đầu nếu bốc trúng HOBBIES:**
@@ -43,6 +47,7 @@
 ---
 
 ### Nhiệm vụ 1C: Nhẩm thuộc lòng "BÀI GỘP SỐ 2" (`SHOPPING + CLOTHING`: Áo khoác bò xanh)
+
 *(Chỉ cần học 1 bài này là trả lời được cả Đề 5: Shopping lẫn Đề 9: Clothing!)*
 
 - **Câu mở đầu nếu bốc trúng SHOPPING:**
@@ -62,6 +67,7 @@
 # 🕒 CA TỰ LUYỆN 2 (20 PHÚT TỐI 21/11): WRITING (15 CÂU VIẾT LẠI CÂU + 1 BỨC THƯ)
 
 ### Phần 2A: 15 Câu Viết Lại Câu B1 Trọng Tâm (Bấm giờ 12 phút)
+
 *Viết tiếp vào phần gợi ý sao cho nghĩa không đổi (Có thể tra cứu file `Tong_Hop_Tat_Ca_Cau_Viet_Lai_Cau_B1.md` nếu quên công thức):*
 
 1. *(Thì HTHT)* The last time he wrote to me was in 2021. *(Gợi ý: write - wrote - **written**)*
@@ -98,9 +104,11 @@
 ---
 
 ### Phần 2B: Viết Thư B1 Tốc Độ (8 phút - Khoảng 100 từ)
+
 **Đề bài:**
 > *Your English friend, **Alex**, wants to know about your **favorite hobby** (or **your taste in music**).*  
 > *Write an email to Alex. In your email, you should:*
+>
 > 1. *Tell Alex what your favorite hobby / music is and how often you do it.*
 > 2. *Explain why you enjoy it and what benefits it brings you.*
 > 3. *Invite Alex to listen to your favorite songs (or do this hobby) together next weekend.*
@@ -132,6 +140,7 @@ Tins
 
 **1. CAR PARK SIGN:**
 > **FOR FREE PARKING: CUSTOMERS SHOULD PICK UP AN EXIT TICKET FROM INSIDE THE SUPERMARKET**
+
 - **What does the sign say?**
   - **A.** Supermarket customers are not charged for parking but need to collect a special ticket.
   - **B.** Supermarket customers should show their receipt at the exit to the car park.
@@ -139,6 +148,7 @@ Tins
 
 **2. NOTE:**
 > *Graham, Ring Otleys Books – the dictionary you ordered is no longer published. They recommended another one (£5 extra) – they could get a copy for tomorrow. — Marina*
+
 - **What does the note say?**
   - **A.** Graham has to wait an extra day for the dictionary he ordered from Otleys.
   - **B.** If Graham wants a dictionary from Otleys, it'll cost more than he expected.
@@ -147,6 +157,7 @@ Tins
 **3. EMAIL:**
 > *From: Li | To: Chung*  
 > *Thanks for lending me that surfing DVD – I'm glad you got it back OK. You can borrow my baseball one and return it on Sunday if you want.*
+
 - **Why has Li written the email?**
   - **A.** Li is offering to lend Chung a DVD.
   - **B.** Li wants to return one of Chung's DVDs to him.
@@ -154,6 +165,7 @@ Tins
 
 **4. COLLEGE NOTICE:**
 > **REDBRIDGE COLLEGE GENERAL OFFICE: Parcels cannot be collected here without a college identity card**
+
 - **What does the notice say?**
   - **A.** The college office will give you a card when you collect your parcels.
   - **B.** When posting a parcel, take your college card with you to the office.
@@ -161,6 +173,7 @@ Tins
 
 **5. NOTICE (SPORTS CENTRE):**
 > **Please report lost property immediately to any member of staff**
+
 - **What should you do if you lose something?**
   - **A.** Ask a member of staff to show you the lost property list.
   - **B.** Tell the staff what you have lost without delay.
@@ -191,6 +204,7 @@ Tins
 ### PART 3: Questions 16 – 25 (Write A for Correct / Đúng, B for Incorrect / Sai)
 
 **Đọc câu hỏi trước rồi dò theo từng đoạn văn bên dưới:**
+
 - **16.** Borneo is larger than any other island in the world. *(A / B)*
 - **17.** Temperatures rarely fall below 20°C on Borneo. *(A / B)*
 - **18.** For the first part of this trip you will sleep in the city centre. *(A / B)*
@@ -220,30 +234,35 @@ Tins
 > Lucas's parents were initially worried that his hobby might take up too much study time, or cost him all his pocket money. However, they soon saw that researching the history of the railways actually improved his geography and history grades at school. In fact, his history teacher recently invited him to give a presentation to his class about how rail travel has changed over the past century.
 
 **26. What is the writer doing in the text?**
+
 - **A.** explaining why train travel is becoming more popular with teenagers
 - **B.** describing a teenager's unusual hobby and how it developed
 - **C.** advising readers on how to start their own ticket collection
 - **D.** comparing modern hobbies with traditional pastimes from the 1960s
 
 **27. Why did Lucas become interested in collecting train tickets?**
+
 - **A.** He found a box of old tickets while travelling on a Scottish train.
 - **B.** His grandfather encouraged him to work for the railway company.
 - **C.** He was fascinated by the personal history behind his grandfather's old tickets.
 - **D.** He wanted to have a hobby that was different from his friends' hobbies.
 
 **28. How does Lucas get most of his new tickets nowadays?**
+
 - **A.** by paying high prices on online auction websites
 - **B.** by exchanging tickets and receiving them from people he knows
 - **C.** by travelling to 38 different countries with his family
 - **D.** by working part-time at local railway museums
 
 **29. How do Lucas's parents feel about his hobby now?**
+
 - **A.** pleased because it has helped him do better in some school subjects
 - **B.** anxious that he is spending too much of his pocket money on it
 - **C.** annoyed that his plastic folders take up too much space in his room
 - **D.** surprised that his history teacher wants to buy his collection
 
 **30. What would Lucas say about his hobby?**
+
 - **A.** I've spent all my savings buying rare tickets on the Internet, but my collection is worth a fortune now.
 - **B.** People sometimes find my hobby strange at first, but I've learnt so much about the world through it.
 - **C.** I only collect tickets from Scotland because that's where my grandfather used to work in the 1960s.
@@ -255,7 +274,8 @@ Tins
 
 *(Nếu ở chỗ làm chưa tiện mở file MP3, hãy đọc 2 đoạn Transcript mô phỏng băng ghi âm B1 dưới đây để rèn phản xạ chống bẫy Distractor! Khi về nhà có thể mở thêm file `10-U2-list-Ex3.mp3` và `12-U3-list-Ex2.mp3`)*
 
-### Tình huống Nghe 1 (Bẫy Phương tiện & Giờ giấc):
+### Tình huống Nghe 1 (Bẫy Phương tiện & Giờ giấc)
+>
 > **Transcript băng đọc:**  
 > *Woman:* "Hi Tom, are we still going to the badminton court by bus this afternoon?"  
 > *Man:* "Well, the bus is usually cheap, **but** the traffic is terrible at 5:00 pm. My brother offered to lend us his car, **however** he needs it for work today. **So** let's just ride our **bicycles** there—it only takes **15 minutes**, and we'll meet at **5:15** instead of 5:30."
@@ -265,7 +285,8 @@ Tins
 - **Câu L2:** What time will they meet?
   - **A.** 5:00 | **B.** 5:15 | **C.** 5:30
 
-### Tình huống Nghe 2 (Điền từ vào chỗ trống - Part 3 Gap Fill):
+### Tình huống Nghe 2 (Điền từ vào chỗ trống - Part 3 Gap Fill)
+>
 > **Transcript băng đọc:**  
 > *Announcer:* "Attention all shoppers! Our Black Friday sale starts this Friday on the **second** floor. Men's blue denim jackets are normally forty dollars, but today you can buy one for just **20** dollars! If you want to join our lucky draw, please write your name and phone number on the form at the **Customer** Desk—that is next to the coffee shop."
 
@@ -312,7 +333,8 @@ Tins
 
 # 🔑 ĐÁP ÁN & GIẢI THÍCH CHI TIẾT (CHỈ XEM SAU KHI ĐÃ TỰ LÀM XONG!)
 
-### 1. Đáp án 15 câu Viết lại câu (Ca 2A):
+### 1. Đáp án 15 câu Viết lại câu (Ca 2A)
+
 1. `He hasn't written to me since 2021.` *(write - wrote - written; in 2021 ➔ since 2021)*
 2. `I have never visited Ha Long Bay before.` *(This is the first time ➔ have never ... before)*
 3. `My old bicycle is not as fast as your new motorbike.` *(slower than ➔ not as fast as, hoặc: Your new motorbike is not as slow as my old bicycle)*
@@ -329,7 +351,8 @@ Tins
 14. `I spend two hours traveling to Thai Binh by bus.` *(spend + thời gian + V-ing)*
 15. `"How about drinking hot ginger tea at this cafe?" she said.` *(How about + V-ing)*
 
-### 2. Đáp án mẫu Thư gửi Alex (Ca 2B):
+### 2. Đáp án mẫu Thư gửi Alex (Ca 2B)
+>
 > Dear Alex,  
 > Thanks a lot for your lovely email. It was great to hear from you again! I am writing to tell you about my favorite hobby.  
 > In my free time, I really enjoy **listening to acoustic pop and Vietnamese rap music**. Every day, I spend about **one hour** doing this when I travel by bus or before bedtime.  
@@ -339,13 +362,15 @@ Tins
 > Best wishes,  
 > Tins
 
-### 3. Đáp án & Giải thích Reading Đề 02 (Ca 3):
+### 3. Đáp án & Giải thích Reading Đề 02 (Ca 3)
+
 - **Part 1:** **1-A** (`FOR FREE PARKING` + `PICK UP AN EXIT TICKET`), **2-B** (`£5 extra` = đắt hơn dự kiến), **3-A** (`You can borrow my baseball one`), **4-C** (`without a college identity card` = phải chứng minh danh tính), **5-B** (`immediately` = `without delay`).
 - **Part 2:** **6-C** (`something from the distant past`), **7-D** (`a lot of people`), **8-A** (`temperatures are rising`), **9-B** (`in summer`), **10-A** (`at three o'clock`), **11-C** (`almost every day`), **12-B** (`Internet connection`), **13-B** (`Since` = Bởi vì), **14-D** (`make more space`), **15-A** (`can be the perfect choice`).
 - **Part 3:** **16-B** (Nhỏ hơn đảo New Guinea), **17-A** (Nhiệt độ 24–30°C quanh năm), **18-A** (`in the heart of this city` = trung tâm thành phố), **19-A** (`swimming or snorkelling`), **20-B** (Đến Sukau chỉ có cách đi bằng xe buýt), **21-B** (Chỉ `Some of these animals` bị thương/yếu, không phải tất cả), **22-B** (`get close to these creatures` = có thể lại gần), **23-B** (Chúng ăn thực vật `plants`), **24-B** (`For a small fee` = có mất phí), **25-A** (Sau tour có thể mua `souvenirs`).
 - **Part 4:** **26-B**, **27-C**, **28-B**, **29-A**, **30-B**.
 
-### 4. Đáp án Listening (Ca 4):
+### 4. Đáp án Listening (Ca 4)
+
 - **L1: C** (`bicycles` — bus và car là bẫy bị loại bỏ bởi *but* và *however*).
 - **L2: B** (`5:15` — 5:00 và 5:30 là bẫy).
 - **L3:** `second` (hoặc `2nd`).

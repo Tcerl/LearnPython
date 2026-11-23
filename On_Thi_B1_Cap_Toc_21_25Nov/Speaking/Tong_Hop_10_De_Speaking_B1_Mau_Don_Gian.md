@@ -14,7 +14,7 @@
 | **BÀI GỘP 1** | **Topic 2: HOBBIES** + **Topic 4: MUSIC** | Sở thích nghe nhạc Acoustic & Rap của **Đen Vâu** (*Đi Về Nhà*), nghe 1 tiếng/ngày, kỷ niệm ôn thi căng thẳng nghe nhạc lấy lại động lực. | **95%** |
 | **BÀI GỘP 2** | **Topic 5: SHOPPING** + **Topic 9: CLOTHING** | Mua sắm quần áo trên **Shopee / cửa hàng**, kỷ niệm săn sale mua chiếc **Áo khoác bò xanh (Blue Denim Jacket)** giá giảm một nửa, mặc đi phỏng vấn may mắn. | **90%** |
 | **BÀI GỘP 3** | **Topic 6: SPORTS** + **Topic 10: BEST FRIEND** | Chơi **Cầu lông (Badminton)** cùng người bạn thân nhất là **Nam** (cao, hay cười, tốt bụng). Kỷ niệm cùng Nam ôn luyện / thi đấu vượt qua thất bại. | **85%** |
-| **BÀI GỘP 4** | **Topic 3: TRAVEL (Đà Lạt)** + **Topic 8: WEATHER (Mùa thu)** | Tận hưởng **thời tiết mát mẻ dễ chịu (23 độ C, gió nhẹ)**, đi dạo quanh hồ, ngồi quán cà phê ven đường uống trà nóng và chụp ảnh cùng bạn bè. | **85%** |
+| **BÀI GỘP 4** | **Topic 3: TRAVEL (Tam Đảo)** + **Topic 8: WEATHER (Tiết trời mát mẻ / Mùa thu)** | Tận hưởng **thời tiết mát mẻ dễ chịu (22 - 23 độ C, gió nhẹ, sương mù)** trên núi Tam Đảo (hoặc mùa thu Hà Nội), đi dạo, ngồi quán cà phê uống trà nóng ngắm cảnh cùng bạn bè. | **85%** |
 | **BÀI GỘP 5** | **Topic 1: HOMETOWN (Thái Bình)** + **Topic 7: FOOD (Phở Bò / Bánh Cáy)** | Quê hương **Đông Hưng, Thái Bình** yên bình và hương vị **ẩm thực truyền thống (Phở bò / Bánh cáy)** gắn liền với tình cảm ấm áp của mẹ và ông bà. | **80%** |
 
 ---
@@ -82,42 +82,40 @@
 ---
 
 ## 🔥 BÀI GỘP SỐ 4: TRAVEL (Du lịch) + WEATHER (Thời tiết)
-*(Chủ đề lõi: Tiết trời mát mẻ dễ chịu như mùa thu & Chuyến đi chơi cùng bạn bè)*
+*(Chủ đề lõi: Tiết trời mát mẻ dễ chịu 22°C & Chuyến đi chơi Tam Đảo cùng bạn bè)*
 
 ### 1. Câu mở đầu linh hoạt (Chọn 1 trong 2 tùy đề bốc được):
 - 👉 **Nếu bốc trúng đề WEATHER (Thời tiết):**
-  > *"Today, I would like to talk about my favorite type of weather. In Vietnam, we have four seasons, and my favorite weather is **cool, sunny autumn weather**, which usually lasts from late September to November. It is exactly the kind of pleasant weather I also look for whenever I travel to mountain cities like Da Lat."*
+  > *"Today, I would like to talk about my favorite type of weather. In the north of Vietnam, we have four seasons, and my favorite weather is **cool, sunny weather**, especially in autumn. It is exactly the kind of pleasant, fresh atmosphere I love whenever I visit mountain destinations in the north like **Tam Dao**."*
 - 👉 **Nếu bốc trúng đề TRAVEL (Du lịch):**
-  > *"Today, I would like to talk about my travelling experience. So far, I have visited about five provinces in Vietnam, such as Quang Ninh, Da Nang, and Lam Dong. Among them, my favorite destination is **Da Lat** (and Hanoi in autumn), mainly because it has **wonderful cool weather** all year round."*
+  > *"Today, I would like to talk about my travelling experience. So far, I have visited several places in Vietnam, such as Quang Ninh, Ninh Binh, and Thai Binh. Among them, my favorite destination is **Tam Dao town in Vinh Phuc province**, which is only about two hours by car from Hanoi, mainly because it has **wonderful cool weather** all year round."*
 
 ### 2. Phần Thân bài + Câu chuyện + Kết bài (DÙNG CHUNG 100% CHO CẢ 2 ĐỀ):
-> "I love this atmosphere so much because the temperature is around 22 to 23 degrees Celsius—neither too hot like summer nor freezing cold like winter. The sky is clear blue with morning fog and a gentle breeze every day.
+> "I love this atmosphere so much because the temperature is around 22 to 23 degrees Celsius—neither too hot like summer nor freezing cold like winter. The sky is clear blue with gentle morning fog and a fresh breeze every day.
 >
-> Whenever I enjoy this cool weather on my trips or weekends, I love doing outdoor activities. I often wake up early to breathe the fresh air, walk or cycle around the lake, try delicious street food, and sit at a small outdoor cafe with my close friends.
+> Whenever I enjoy this cool weather on my trips or weekends, I love doing outdoor activities. I often wake up early to breathe the fresh air, walk around the town square, try delicious local street food, and sit at a cozy outdoor cafe on the mountain slope with my close friends.
 >
-> I still remember a wonderful trip with my three best friends last autumn. We went out to enjoy the cool breeze and yellow trees, took lots of beautiful photos, and stopped at a cozy roadside coffee shop. We drank hot ginger tea, sang songs together, and laughed so hard. The fresh and peaceful air helped me completely forget all my busy study schedules.
+> I still remember a wonderful weekend trip to Tam Dao with my three close friends last autumn. We went out early to enjoy the cool breeze and beautiful mountain scenery, took lots of memorable photos, and stopped at a small roadside coffee shop. We drank hot ginger tea, chatted happily, and laughed together. The fresh, cool air helped me recharge my energy and completely forget all my busy study schedules.
 >
 > In conclusion, enjoying cool weather and travelling with friends always puts me in a great mood, opens my mind, and gives me wonderful memories."
 
 ---
 
-## 🔥 BÀI GỘP SỐ 5: HOMETOWN (Quê hương) + FOOD (Món ăn yêu thích)
-*(Chủ đề lõi: Quê hương Đông Hưng, Thái Bình & Món ăn truyền thống Phở Bò / Bánh Cáy)*
+## 🔥 BÀI GỘP SỐ 5: HOMETOWN (Quê hương) + FOOD (Món ăn / Đặc sản yêu thích: Bánh Cáy Đông Hưng)
+*(Chủ đề lõi: Quê hương Đông Hưng, Thái Bình & Đặc sản truyền thống Bánh Cáy)*
 
 ### 1. Câu mở đầu linh hoạt (Chọn 1 trong 2 tùy đề bốc được):
 - 👉 **Nếu bốc trúng đề HOMETOWN (Đông Hưng, Thái Bình):**
-  > *"Today, I would like to tell you about my hometown. I was born and raised in **Dong Hung district, Thai Binh province**, which is located in the north of Vietnam, about two hours by bus from Hanoi. It is a peaceful countryside surrounded by green rice fields, hardworking people, and especially **delicious traditional food**."*
-- 👉 **Nếu bốc trúng đề FOOD (Phở Bò & Đặc sản quê hương):**
-  > *"Today, I would like to tell you about my favorite traditional food, which is **Pho bo (Vietnamese beef noodle soup)**, along with **Banh cay**, a sweet specialty from my hometown in **Dong Hung, Thai Binh province**."*
+  > *"Today, I would like to tell you about my hometown. I was born and raised in **Dong Hung district, Thai Binh province**, which is located in the north of Vietnam, about two hours by bus from Hanoi. It is a peaceful countryside surrounded by green rice fields, hardworking people, and especially a famous traditional specialty called **Banh cay**."*
+- 👉 **Nếu bốc trúng đề FOOD (Bánh Cáy Đông Hưng):**
+  > *"Today, I would like to tell you about my favorite traditional food, which is **Banh cay**, a famous sweet specialty from my hometown in **Dong Hung district, Thai Binh province**. It is a unique traditional cake loved by many people across Vietnam."*
 
-### 2. Phần Thân bài + Câu chuyện + Kết bài (DÙNG CHUNG CHO CẢ 2 ĐỀ):
-> *(Lưu ý: Nếu thi đề Hometown thì đọc lướt câu nguyên liệu Phở trong 10 giây; nếu thi đề Food thì đọc kỹ câu nguyên liệu Phở)*:
+### 2. Phần Thân bài + Câu chuyện + Kết bài (DÙNG CHUNG 100% CHO CẢ 2 ĐỀ):
+> "Dong Hung is very famous for agriculture, large paddy fields, and making Banh cay. To make this delicious cake, local people use simple ingredients such as sticky rice, spicy ginger, roasted peanuts, and sugar. It has a slightly crispy texture, a sweet taste, and a warm aroma of ginger. In my hometown, people often enjoy Banh cay while drinking a cup of hot green tea, especially on chilly days.
 >
-> "In my hometown, people are very friendly and famous for agriculture and cooking traditional dishes. For a hot bowl of Pho bo, we need fresh rice noodles, tender sliced beef, green onions, herbs, and especially a rich, sweet broth simmered from beef bones, ginger, and cinnamon for hours. And for desert, we often enjoy Banh cay—a sweet cake made of sticky rice and ginger—with hot green tea.
+> I still remember a heartwarming memory last autumn during the harvest season. In the early morning, I rode an old bicycle around the village to breathe the fresh air and enjoy the golden rice fields. When I returned home, I sat in the peaceful yard with my grandparents. We drank hot green tea, ate sweet Banh cay, and chatted happily about daily life. The warm tea and sweet cake made me feel so relaxed, happy, and deeply loved by my family.
 >
-> I still remember a heartwarming memory last autumn during the harvest season. After living away from home and catching a bad cold, I went back to my hometown in Thai Binh. Early in the morning, I rode an old bicycle around the golden rice fields to breathe the fresh air. When I got home, my mother cooked me a hot, flavorful bowl of beef Pho, and then I sat in the yard with my grandparents, eating Banh cay and drinking hot green tea. The warm food helped me recover quickly, and I felt the deep love and care of my family.
->
-> To sum up, my hometown and its traditional food are not just about delicious flavors; they are always my home, where I can find peace, relax, and feel the warmth of my family."
+> To sum up, whether talking about my hometown or its traditional food, Banh cay is always special to me. It is not just a tasty sweet, but also a symbol of my family's love, warmth, and beautiful childhood memories."
 
 ---
 
@@ -192,14 +190,14 @@
 
 ---
 
-### TOPIC 7: FOOD (Pho Bo - Vietnamese Beef Noodle Soup)
-> "Today, I would like to talk about my favorite food. Among many delicious dishes in Vietnam, my favorite one is definitely *Pho bo*, which is traditional Vietnamese beef noodle soup. It is a famous dish loved by both local people and foreign tourists.
+### TOPIC 7: FOOD (Banh Cay - Dong Hung Sweet Rice Cake)
+> "Today, I would like to talk about my favorite traditional food, which is *Banh cay*, a famous sweet specialty from my hometown in Dong Hung district, Thai Binh province. It is a unique traditional cake that represents the culinary culture of our region.
 >
-> To make a bowl of Pho bo, we need key ingredients such as fresh rice noodles, thinly sliced beef, green onions, and fresh herbs. However, the most important part is the rich and sweet broth, which is simmered from beef bones, ginger, and cinnamon for many hours. Because it takes a long time to cook, I usually eat it for breakfast once or twice a week at a small restaurant near my house.
+> To make delicious Banh cay, local people use simple, natural ingredients such as sticky rice, spicy ginger, roasted peanuts, and sugar. It has a slightly crispy texture, a sweet taste, and a warm, pleasant aroma of ginger. In my hometown, people often enjoy Banh cay while drinking a cup of hot green tea, especially during cold winter days or the Tet holiday.
 >
-> I still remember my first winter living away from home when I got sick with a bad cold. My mother travelled all the way to my room and cooked a hot bowl of beef Pho for me. Eating the warm, tasty soup helped me recover quickly, and I deeply felt the warm love and care of my mother.
+> I still remember a wonderful memory last autumn when I went back to my hometown during the harvest season. One chilly morning, I visited my grandparents. We sat together in the quiet yard, drank hot green tea, and shared pieces of sweet Banh cay. Eating the cake and listening to my grandparents' stories made me feel completely relaxed, happy, and warm inside.
 >
-> To sum up, Pho bo is not just a tasty meal to me; it always reminds me of my family and traditional Vietnamese culture."
+> To sum up, Banh cay is not just a tasty sweet cake to me; it is a symbol of my hometown's tradition, warmth, and peaceful family memories."
 
 ---
 
