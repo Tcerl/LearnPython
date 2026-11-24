@@ -9,9 +9,10 @@
 ---
 
 ## 🎙️ 2. KỸ NĂNG SPEAKING (5 BÀI NÓI GỘP "2-TRONG-1" & 10 BÀI THI HOÀN CHỈNH)
-1. 👉 **[MỞ NGAY: Bí Kíp 5 Bài Nói Gộp Đa Năng (Học 5 Được 10) & 10 Bài Hoàn Chỉnh](./speking.md)**
-2. 👉 **[Bản trong thư mục Speaking (.md)](./On_Thi_B1_Cap_Toc_21_25Nov/Speaking/Tong_Hop_10_De_Speaking_B1_Mau_Don_Gian.md)**
-3. 👉 **[Đề gốc 10 Cue Cards Speaking B1 (.md)](./Speaking%202%20B1.md)**
+1. ⚡ **[PHAO GỢI NHỚ SIÊU NGẮN (Nhìn 5 giây nhớ ngay từng câu để nói!)](./On_Thi_B1_Cap_Toc_21_25Nov/Speaking/Dan_Y_Goi_Nho_Nhanh_5_Bai_Speaking.md)**
+2. 👉 **[MỞ NGAY: Bí Kíp 5 Bài Nói Gộp Đa Năng (Học 5 Được 10) & 10 Bài Hoàn Chỉnh](./speking.md)**
+3. 👉 **[Bản trong thư mục Speaking (.md)](./On_Thi_B1_Cap_Toc_21_25Nov/Speaking/Tong_Hop_10_De_Speaking_B1_Mau_Don_Gian.md)**
+4. 👉 **[Đề gốc 10 Cue Cards Speaking B1 (.md)](./Speaking%202%20B1.md)**
 
 ---
 
