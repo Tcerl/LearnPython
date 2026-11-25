@@ -16,7 +16,7 @@
 | :--- | :--- | :--- | :---: |
 | **BÀI GỘP 1** | **Topic 2: HOBBIES** + **Topic 4: MUSIC** | Sở thích nghe nhạc Acoustic & Rap của **Đen Vâu** (*Đi Về Nhà*) 1 tiếng/ngày ➔ Kỷ niệm mùa thi cuối kỳ năm ngoái áp lực, đeo tai nghe nghe nhạc nhớ bố mẹ và có thêm năng lượng học tiếp. | **95%** |
 | **BÀI GỘP 2** | **Topic 5: SHOPPING** + **Topic 9: CLOTHING** | Mua quần áo đơn giản trên **Shopee** ➔ Kỷ niệm đêm Black Friday dùng lương làm thêm tháng đầu săn voucher mua **Áo khoác bò xanh (Blue Denim Jacket)** giảm 50%, mặc đi phỏng vấn xin việc đỗ ngay. | **90%** |
-| **BÀI GỘP 3** | **Topic 6: SPORTS** + **Topic 10: BEST FRIEND** | Chơi **Cầu lông (Badminton)** thứ Ba & thứ Bảy cùng bạn thân nhất là **Nam** (cao, hay cười, tốt bụng) ➔ Kỷ niệm năm ngoái trượt bài test và thua điểm đầu trận, Nam động viên thắng giải và qua phòng kèm tiếng Anh 2 tháng giúp thi đỗ. | **85%** |
+| **BÀI GỘP 3** | **Topic 6: SPORTS** + **Topic 10: BEST FRIEND** | Chơi **Cầu lông (Badminton)** cùng bạn thân nhất là **Đức** (cao, thân thiện, tốt bụng) ➔ Kỷ niệm trận đấu đôi năm ngoái đánh cùng 2 người hàng xóm, lúc đầu thua điểm nhưng Đức động viên cố lên, sau đó thắng trận và cùng nhau đi ăn kem. | **85%** |
 | **BÀI GỘP 4** | **Topic 3: TRAVEL (Tam Đảo)** + **Topic 8: WEATHER (Thời tiết mát mẻ)** | Tận hưởng **thời tiết mát mẻ dễ chịu (22 – 23 độ C, gió nhẹ, sương mù)** ở **Tam Đảo** (và mùa thu miền Bắc) ➔ Kỷ niệm mùa thu năm ngoái đi Tam Đảo với 3 bạn thân, dạo quảng trường, chụp ảnh và ngồi quán cafe uống trà gừng nóng. | **90%** |
 | **BÀI GỘP 5** | **Topic 1: HOMETOWN (Thái Bình)** + **Topic 7: FOOD (Bánh Cáy Đông Hưng)** | Quê hương **Đông Hưng, Thái Bình** yên bình với cánh đồng lúa và đặc sản **Bánh Cáy** (gạo nếp, gừng, lạc rang, đường) ➔ Kỷ niệm mùa gặt mùa thu năm ngoái về quê đạp xe, ngồi ngoài sân với ông bà uống trà xanh nóng và ăn Bánh Cáy. | **95%** |
 
@@ -131,54 +131,51 @@
 ---
 
 ## 🔥 BÀI GỘP SỐ 3: SPORTS (Thể thao) + YOUR BEST FRIEND (Bạn thân)
-*(Chủ đề lõi: Chơi cầu lông cùng người bạn thân nhất tên là Nam)*
+*(Chủ đề lõi: Chơi cầu lông cùng bạn thân Đức và trận đấu đáng nhớ)*
 
-### 🇻🇳 1. Dàn ý nói bằng Tiếng Việt (Nhẩm nhanh trong 30 giây chuẩn bị):
+### 🇻🇳 1. Dàn ý siêu ngắn (Nhẩm 3 ý chính trong đầu):
 1. **Mở đầu (1 trong 2 đề):**
-   - *Đề Sports:* Kể về môn thể thao yêu thích là **cầu lông (`badminton`)** ➔ Rất vui và dễ chơi ➔ Đã chơi hơn 3 năm cùng **người bạn thân nhất là Nam**.
-   - *Đề Best Friend:* Kể về **người bạn thân nhất là Nam** ➔ Thân nhau hơn 5 năm từ thời cấp 3 ➔ Nam cao, có nụ cười tươi (`bright smile`), tốt bụng, trung thực và vui tính (`kind, honest, and funny`) ➔ Điểm chung lớn nhất là **cùng thích chơi cầu lông**.
-2. **Thói quen chơi cầu lông & Lợi ích sức khỏe:**
-   - Mỗi tuần, tôi và Nam chơi cầu lông **2 lần** vào chiều thứ Ba và thứ Bảy ở sân gần nhà.
-   - Sau 1 tiếng chơi, chúng tôi ra nhiều mồ hôi (`sweat a lot`).
-   - Lợi ích: Giúp **giữ sức khỏe, giữ dáng và giảm hết căng thẳng** sau giờ học và làm việc.
-3. **Câu chuyện kỷ niệm (Nam động viên thắng giải & kèm tiếng Anh):**
-   - Nhớ lại kỷ niệm năm ngoái: tôi bị trượt một bài kiểm tra tiếng Anh quan trọng (`failed an important English test`) và còn bị mất điểm ở đầu trận chung kết cầu lông, nên rất buồn và lo lắng (`sad and nervous`).
-   - Nhưng Nam luôn ở bên cạnh tôi (`always by my side`).
-   - Trên sân cầu lông, cậu ấy động viên tôi và giúp tôi **thắng trận đấu cách biệt đúng 2 điểm (`win the match by just two points`)**.
-   - Sau đó, cuối tuần nào suốt 2 tháng Nam cũng qua phòng giúp tôi ôn ngữ pháp tiếng Anh cho đến khi tôi thi đỗ dễ dàng.
-4. **Kết bài:**
-   - Tóm lại (`To sum up`), chơi cầu lông cùng bạn thân Nam không chỉ mang lại sức khỏe và năng lượng, mà còn làm tình bạn của chúng tôi bền chặt hơn mỗi ngày.
+   - *Sports:* Môn thể thao yêu thích là **cầu lông (`badminton`)**, chơi cùng bạn thân là **Đức**.
+   - *Best Friend:* Bạn thân nhất là **Đức**, chơi thân từ cấp 3, sở thích chung là **chơi cầu lông**.
+2. **Thói quen & Lợi ích:** Chơi **2 lần/tuần** vào chiều thứ Bảy và Chủ Nhật. Giúp khỏe mạnh và giảm stress.
+3. **Kỷ niệm:** Trận đấu đôi năm ngoái, lúc đầu bị thua điểm, Đức động viên *"Cố lên!"*, sau đó thắng kịch tính và cùng đi ăn kem ăn mừng.
+4. **Kết bài:** Đức là người bạn tuyệt vời và cầu lông giúp tình bạn thân thiết hơn.
 
 ---
 
-### 🇬🇧 2. Bài nói Tiếng Anh tối ưu (Chia theo từng nhịp câu ngắn dễ thuộc):
+### 🇬🇧 2. Bài nói Tiếng Anh siêu đơn giản (Câu ngắn, từ vựng quen thuộc 100%, cực dễ thuộc):
 
 **🔹 Bước 1: Câu mở đầu (Chọn 1 trong 2 tùy đề bốc được):**
-- 👉 **Nếu bốc trúng đề SPORTS (Cầu lông):**
-  > **Today, I would like to talk about my favorite sport, which is badminton.**  
-  > **It is a fun and easy sport to play.**  
-  > **I have played badminton for over three years, and I always play it with my best friend, Nam.**
-- 👉 **Nếu bốc trúng đề BEST FRIEND (Bạn thân Nam):**
-  > **Today, I would like to talk about my best friend, Nam.**  
-  > **We have been close friends for over five years since high school.**  
-  > **Nam is tall with a bright smile. He is very kind, honest, and funny.**  
-  > **We have a lot in common, and our biggest shared hobby is playing badminton together.**
+- 👉 **Nếu bốc trúng đề SPORTS (Môn thể thao yêu thích):**
+  > **Today, I would like to talk about my favorite sport.**  
+  > **My favorite sport is badminton, and it is very fun and easy to play.**  
+  > **I usually play badminton with my best friend, Đức.**
 
-**🔹 Bước 2 + 3 + 4: Phần dùng chung 100% cho cả 2 đề:**
+- 👉 **Nếu bốc trúng đề BEST FRIEND (Người bạn thân nhất):**
+  > **Today, I would like to talk about my best friend.**  
+  > **His name is Đức, and we have been close friends for five years.**  
+  > **Đức is tall, friendly, and our favorite hobby is playing badminton together.**
+
+---
+
+**🔹 Bước 2 + 3 + 4: Phần dùng chung 100% cho cả 2 đề (Học thuộc lòng phần này):**
 > **[Bước 2: Thói quen & Lợi ích]**  
-> Every week, Nam and I play badminton twice a week, on Tuesday and Saturday afternoons, at a court near our houses.  
-> After one hour of playing, we sweat a lot.  
-> It helps us stay healthy, keep fit, and reduce all the stress after work and study.
+> Every week, Đức and I play badminton two times, on Saturday and Sunday afternoons.  
+> We often play at a sports club near our houses for about one hour.  
+> Playing badminton helps me stay healthy, keep fit, and reduce stress after study and work.  
 >
-> **[Bước 3: Câu chuyện kỷ niệm]**  
-> I still remember a special memory with Nam last year.  
-> At that time, I failed an important English test and also lost points early in our final badminton match, so I felt very sad and nervous.  
-> However, Nam was always by my side.  
-> On the badminton court, he cheered me up and helped me win the match by just two points!  
-> After that, he came to my room every weekend for two months to help me review English grammar until I passed the test easily.
+> **[Bước 3: Câu chuyện kỷ niệm dễ nhớ]**  
+> I still remember a wonderful memory with Đức last year.  
+> We played a badminton match together against two neighbors.  
+> In the beginning, I played badly and felt very nervous.  
+> But Đức smiled and said to me: *"Don't worry, just relax and do your best!"*  
+> His words made me feel confident again.  
+> We played hard, scored points, and finally won the match!  
+> After that, we went to eat ice cream together and felt so happy.  
 >
 > **[Bước 4: Kết bài]**  
-> **To sum up**, playing badminton with my best friend Nam not only gives me good health and energy, but also makes our friendship stronger every day.
+> **To sum up**, badminton is a great sport, and Đức is a wonderful friend.  
+> Playing sports together makes our friendship stronger every day.
 
 ---
 ---
@@ -388,11 +385,11 @@
 
 ---
 
-### TOPIC 10: YOUR BEST FRIEND (My Best Friend - Nam)
-> "Today, I would like to talk about my best friend. I have several friends, but my closest friend is Nam. We have been best friends for more than five years, since we studied together in high school.
+### TOPIC 10: YOUR BEST FRIEND (My Best Friend - Duc)
+> "Today, I would like to talk about my best friend. I have several friends, but my closest friend is Duc. We have been close friends for five years, since we were in high school.
 >
-> Regarding his appearance, Nam is tall with a friendly face and a bright smile. In terms of personality, he is very kind, honest, and funny—he always tells jokes to make people laugh. Nam and I have a lot in common, especially our biggest shared hobby: playing badminton together every Tuesday and Saturday.
+> Duc is tall, friendly, and very kind. We have a lot in common, and our favorite hobby is playing badminton together every weekend.
 >
-> I still remember a touching memory with him last year when I failed an important English test. At that time, I felt very disappointed and sad. When Nam knew about it, he came to my room, cheered me up, and studied with me every weekend for two months. He patiently helped me review grammar and vocabulary until I retook the exam and passed it easily.
+> I still remember a wonderful memory with Duc last year. We played a badminton match together against two neighbors. In the beginning, I played badly and felt very nervous. But Duc smiled and cheered me up. Thanks to his encouragement, I felt confident again, and we finally won the match! After that, we went to eat ice cream together and felt so happy.
 >
-> In conclusion, Nam is a true friend who is always by my side when I need him. I deeply value our friendship and hope we will stay close friends forever."
+> In conclusion, Duc is a wonderful friend who always supports me. I hope we will stay close friends forever."

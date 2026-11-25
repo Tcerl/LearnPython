@@ -27,7 +27,7 @@
 | :--- | :--- | :--- | :---: | :---: |
 | **GỘP #1** | **Topic 2 (Hobbies)** + **Topic 4 (Music)** | Nghe nhạc Acoustic & Rap **Đen Vâu** (*Đi Về Nhà*), giải tỏa stress mùa thi | ⏳ Chờ trả bài | - |
 | **GỘP #2** | **Topic 5 (Shopping)** + **Topic 9 (Clothing)** | Săn sale Shopee đêm Black Friday mua **Áo khoác bò xanh** lương tháng đầu, mặc đi phỏng vấn | ⏳ Chờ trả bài | - |
-| **GỘP #3** | **Topic 6 (Sports)** + **Topic 10 (Best Friend)** | Chơi **Cầu lông (Badminton)** cùng bạn thân **Nam**, động viên nhau thắng giải & vượt qua kỳ thi | ⏳ Chờ trả bài | - |
+| **GỘP #3** | **Topic 6 (Sports)** + **Topic 10 (Best Friend)** | Chơi **Cầu lông (Badminton)** cùng bạn thân **Đức**, động viên nhau thắng trận đấu kịch tính | ⏳ Chờ trả bài | - |
 | **GỘP #4** | **Topic 3 (Travel)** + **Topic 8 (Weather)** | Tiết trời **mát mẻ 22°C** trên núi **Tam Đảo (Vĩnh Phúc)** / mùa thu, đi dạo, ngồi cafe sườn núi uống trà gừng với bạn | ⏳ Chờ trả bài | - |
 | **GỘP #5** | **Topic 1 (Hometown)** + **Topic 7 (Food)** | Quê hương **Đông Hưng, Thái Bình** mùa gặt & đặc sản **Bánh Cáy** ấm áp tình cảm gia đình | 🌟 Đã tối ưu (Bỏ Phở bò, chỉ giữ Bánh cáy) | **8.5 / 10** *(Dễ phát âm hơn 100%)* |
 
