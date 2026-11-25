@@ -21,6 +21,107 @@
 | **BÀI GỘP 5** | **Topic 1: HOMETOWN (Thái Bình)** + **Topic 7: FOOD (Bánh Cáy Đông Hưng)** | Quê hương **Đông Hưng, Thái Bình** yên bình với cánh đồng lúa và đặc sản **Bánh Cáy** (gạo nếp, gừng, lạc rang, đường) ➔ Kỷ niệm mùa gặt mùa thu năm ngoái về quê đạp xe, ngồi ngoài sân với ông bà uống trà xanh nóng và ăn Bánh Cáy. | **95%** |
 
 ---
+
+## 🎯 BẢNG GỢI NHỚ DÀN Ý NHANH (GẠCH ĐẦU DÒNG 5 BÀI GỘP)
+*(Dùng để nhẩm trong 1 phút chuẩn bị hoặc viết nhanh ra giấy nháp trước khi nói)*
+
+### 1️⃣ BÀI GỘP 1: HOBBIES + MUSIC (Nghe nhạc Đen Vâu & "Đi Về Nhà")
+- **Mở bài (Chọn 1):**
+  - *Hobbies:* Thích nhất nghe nhạc (`listening to music`) ➔ Bắt đầu từ cấp 3 (`since high school`).
+  - *Music:* Âm nhạc rất quan trọng (`plays an important role`) ➔ Thích rap Việt và acoustic (`Vietnamese rap and acoustic pop`).
+- **Thói quen & Lý do:**
+  - Nghe **1 tiếng mỗi ngày** trên xe buýt hoặc trước khi ngủ (`one hour every day, on the bus or before bedtime`).
+  - Ca sĩ: **Đen Vâu** với bài *"Đi Về Nhà"* (`famous for the song 'Di Ve Nha'`).
+  - Lý do: Giai điệu nhẹ nhàng (`gentle melody`), lời giản dị ý nghĩa (`simple and meaningful lyrics`).
+  - Lợi ích: Thư giãn đầu óc, giảm stress, học tốt hơn (`relax my mind, reduce stress, study better`).
+- **Câu chuyện kỷ niệm (Mùa thi cuối kỳ năm ngoái):**
+  - Ôn thi cuối kỳ rất mệt mỏi và áp lực (`felt very tired and stressed during final exams`).
+  - Đêm đó đeo tai nghe bật bài *"Đi Về Nhà"* (`put on headphones, listened to 'Di Ve Nha'`).
+  - Nhớ bố mẹ luôn yêu thương và ủng hộ (`parents always love and support me`).
+  - Thấy vui và có thêm năng lượng để học tiếp (`felt happy, had more energy to study hard`).
+- **Kết bài:** Âm nhạc là liều thuốc cho tâm hồn và luôn làm tôi vui lên (`medicine for my soul, always cheers me up`).
+> 💡 *Khẩu quyết 1 dòng:* **Den Vau ("Di Ve Nha") ➔ 1 hour/day (bus/bedtime) ➔ Relax & reduce stress ➔ Exams: tired ➔ listened ➔ parents love ➔ more energy ➔ Medicine for soul.**
+
+---
+
+### 2️⃣ BÀI GỘP 2: SHOPPING + CLOTHING (Săn sale Áo khoác bò Shopee)
+- **Mở bài (Chọn 1):**
+  - *Shopping:* Thường xuyên mua sắm, thích mua quần áo thoải mái (`comfortable clothes`) trên **Shopee / TikTok Shop** ➔ Tiện lợi, nhiều mã giảm giá (`convenient, discount vouchers`).
+  - *Clothing:* Món đồ yêu thích nhất là chiếc **áo khoác bò xanh** (`blue denim jacket`).
+- **Thói quen & Phối đồ:**
+  - Mua sắm online **2 lần/tháng** (`two times a month`).
+  - Áo khoác bò bền và dễ phối đồ (`durable, easy to match`).
+  - Hay mặc với **áo phông trắng và quần đen** đi học hoặc đi chơi (`white T-shirt and black pants`).
+- **Câu chuyện kỷ niệm (Black Friday & Buổi phỏng vấn xin việc):**
+  - 2 năm trước nhận tháng lương làm thêm đầu tiên (`first salary from part-time job`).
+  - Đêm **Black Friday** thức tới nửa đêm săn voucher Shopee (`waited until midnight to collect vouchers`).
+  - Mua được áo xịn giá **nửa tiền** (`bought for half the price`), tiết kiệm được nhiều tiền (`saved a lot of money`).
+  - Mặc đi **phỏng vấn xin việc đầu tiên** vào sáng mùa đông lạnh (`wore it to first job interview on a cold morning`).
+  - Áo giữ ấm, giúp tự tin và **trúng tuyển công việc** (`kept me warm, gave me confidence, helped me get the job`).
+- **Kết bài:** Mua sắm quần áo tốt mang lại niềm vui, tự tin và kỷ niệm đẹp trong khi vẫn tiết kiệm tiền.
+> 💡 *Khẩu quyết 1 dòng:* **Shopee Black Friday ➔ Blue denim jacket (durable, white T-shirt) ➔ Midnight vouchers (half price) ➔ First interview (warm, confident, got job) ➔ Joy & confidence.**
+
+---
+
+### 3️⃣ BÀI GỘP 3: SPORTS + BEST FRIEND (Đánh cầu lông cùng bạn thân Đức)
+- **Mở bài (Chọn 1):**
+  - *Sports:* Thích **cầu lông** (`badminton`) ➔ Vui, dễ chơi, tốt cho sức khỏe (`fun, easy, healthy`) ➔ Luôn chơi cùng bạn thân là **Đức**.
+  - *Best Friend:* Bạn thân nhất tên **Đức** ➔ Thân nhau 5 năm từ cấp 3 (`close friends for five years since high school`) ➔ Đức cao, thân thiện (`tall and friendly`) ➔ Đam mê chung là **chơi cầu lông**.
+- **Thói quen & Lợi ích:**
+  - Chơi **2 lần/tuần** chiều T7 và Chủ Nhật (`Saturday and Sunday afternoons`).
+  - Chơi **1 tiếng** ở sân gần nhà (`sports club near our houses for about one hour`).
+  - Lợi ích: Khỏe mạnh, giữ dáng, giảm stress sau khi học và làm việc (`stay healthy, keep fit, reduce stress`).
+- **Câu chuyện kỷ niệm (Trận đấu với 2 người hàng xóm):**
+  - Năm ngoái đánh 1 trận đôi với 2 người hàng xóm (`match against two neighbors`).
+  - Lúc đầu tôi đánh dở và rất run (`played badly, felt very nervous`).
+  - Đức mỉm cười bảo: *"Đừng lo, cứ thả lỏng và cố hết sức!"* (`"Don't worry, just relax and do your best!"`).
+  - Tôi tự tin trở lại (`confident again`), hai đứa ghi điểm và **thắng trận** (`won the match`).
+  - Sau trận cùng nhau **đi ăn kem rất vui** (`went to eat ice cream together, felt so happy`).
+- **Kết bài:** Cầu lông tuyệt vời và Đức là người bạn tuyệt vời. Chơi thể thao giúp tình bạn bền chặt hơn mỗi ngày (`friendship stronger every day`).
+> 💡 *Khẩu quyết 1 dòng:* **Friend Duc (5 years) ➔ Badminton (Sat & Sun, 1 hour) ➔ Healthy & reduce stress ➔ Neighbors match (nervous ➔ "Don't worry!" ➔ win) ➔ Eat ice cream ➔ Friendship stronger.**
+
+---
+
+### 4️⃣ BÀI GỘP 4: TRAVEL + WEATHER (Khí hậu mát mẻ & Du lịch Tam Đảo)
+- **Mở bài (Chọn 1):**
+  - *Weather:* Thích thời tiết **mát mẻ, có nắng mùa thu** (`cool, sunny weather in autumn`) ➔ Đó là không khí trong lành tôi yêu thích mỗi khi đi vùng núi như **Tam Đảo**.
+  - *Travel:* Thích du lịch, điểm đến yêu thích nhất là **thị trấn Tam Đảo (Vĩnh Phúc)** ➔ Cách Hà Nội **2 tiếng đi xe** (`two hours by car from Hanoi`) ➔ Thời tiết mát mẻ tuyệt vời quanh năm (`cool weather all year round`).
+- **Đặc điểm thời tiết & Hoạt động:**
+  - Nhiệt độ lý tưởng: **22 đến 23 độ C** (`22 to 23 degrees Celsius`) ➔ Không quá nóng, không quá lạnh (`neither too hot nor too cold`).
+  - Trời trong xanh, sương mù nhẹ buổi sáng và gió mát (`clear blue sky, gentle morning fog, fresh breeze`).
+  - Dậy sớm hít thở không khí trong lành, dạo quảng trường thị trấn, ăn đồ ăn vặt đường phố (`town square, street food`).
+  - Ngồi quán cà phê ngoài trời trên sườn núi ngắm cảnh (`outdoor cafe on the mountain slope`).
+- **Câu chuyện kỷ niệm (Chuyến đi Tam Đảo mùa thu với bạn thân):**
+  - Mùa thu năm ngoái đi Tam Đảo cuối tuần cùng 3 người bạn thân (`trip to Tam Dao with three close friends`).
+  - Đi dạo ngắm cảnh núi non, chụp nhiều ảnh đẹp (`mountain scenery, took memorable photos`).
+  - Dừng chân ở quán cà phê ven đường, cùng uống **trà gừng nóng** (`hot ginger tea`), trò chuyện vui vẻ.
+  - Không khí mát mẻ giúp nạp lại năng lượng và quên hết lịch học bận rộn (`recharge energy, forget busy study schedules`).
+- **Kết bài:** Tận hưởng thời tiết mát mẻ và đi du lịch cùng bạn bè luôn mang lại tâm trạng tuyệt vời, mở mang đầu óc và kỷ niệm đẹp.
+> 💡 *Khẩu quyết 1 dòng:* **Tam Dao (Vinh Phuc, 2 hours from Hanoi) ➔ Cool weather (22°C, morning fog) ➔ Mountain cafe & hot ginger tea ➔ Recharge energy ➔ Great mood & memories.**
+
+---
+
+### 5️⃣ BÀI GỘP 5: HOMETOWN + FOOD (Đông Hưng, Thái Bình & Đặc sản Bánh Cáy)
+- **Mở bài (Chọn 1):**
+  - *Hometown:* Sinh ra và lớn lên ở **huyện Đông Hưng, tỉnh Thái Bình** ➔ Cách Hà Nội **2 tiếng đi xe buýt** (`two hours by bus from Hanoi`) ➔ Miền quê yên bình có đồng lúa xanh, con người chăm chỉ và đặc sản truyền thống là **Bánh Cáy** (`famous traditional specialty Banh cay`).
+  - *Food:* Món ăn truyền thống yêu thích nhất là **Bánh Cáy**, đặc sản ngọt nổi tiếng của Đông Hưng, Thái Bình.
+- **Nguyên liệu & Cách thưởng thức Bánh Cáy:**
+  - Đông Hưng nổi tiếng về nông nghiệp và làm Bánh Cáy (`famous for agriculture, large paddy fields, and making Banh cay`).
+  - Nguyên liệu đơn giản: **Gạo nếp, gừng cay, lạc rang và đường** (`sticky rice, spicy ginger, roasted peanuts, sugar`).
+  - Hương vị: Giòn nhẹ, vị ngọt và mùi thơm ấm của gừng (`crispy texture, sweet taste, warm aroma of ginger`).
+  - Thưởng thức ngon nhất: Ăn bánh cáy và uống **trà xanh nóng** vào ngày se lạnh (`eat Banh cay with hot green tea on chilly days`).
+- **Câu chuyện kỷ niệm (Về quê mùa gặt thăm ông bà):**
+  - Mùa thu năm ngoái về quê đúng **mùa gặt lúa** (`last autumn during the harvest season`).
+  - Sáng sớm đạp xe đạp cũ quanh làng hít thở không khí trong lành ngắm cánh đồng lúa vàng (`rode old bicycle, golden rice fields`).
+  - Về nhà ngồi ngoài sân yên bình cùng ông bà (`sat in the peaceful yard with grandparents`).
+  - Cùng uống trà xanh nóng, ăn bánh cáy ngọt và trò chuyện về cuộc sống (`drank hot green tea, ate sweet Banh cay, chatted happily`).
+  - Cảm giác thư giãn, hạnh phúc và được gia đình yêu thương (`felt relaxed, happy, deeply loved by family`).
+- **Kết bài:** Bánh Cáy là biểu tượng của tình cảm gia đình, sự ấm áp và kỷ niệm tuổi thơ đẹp đẽ.
+> 💡 *Khẩu quyết 1 dòng:* **Dong Hung, Thai Binh (2 hours by bus) ➔ Banh cay (sticky rice, ginger, peanuts, hot green tea) ➔ Harvest season (old bicycle, golden fields) ➔ Sat with grandparents in yard ➔ Family love & peace.**
+
+---
+
+---
 ---
 
 # PHẦN I: 5 BÀI NÓI ĐA NĂNG "2 TRONG 1" (ĐÃ TỐI ƯU CÂU NGẮN + DÀN Ý TIẾNG VIỆT)
