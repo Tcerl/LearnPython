@@ -282,52 +282,47 @@
 ---
 
 ## 🔥 BÀI GỘP SỐ 4: TRAVEL (Du lịch Tam Đảo) + WEATHER (Thời tiết mát mẻ)
-*(Chủ đề lõi: Tiết trời mát mẻ dễ chịu 22–23°C & Chuyến đi chơi Tam Đảo cùng bạn bè)*
+*(Chủ đề lõi: Tiết trời mát mẻ 22 độ & Chuyến đi Tam Đảo cùng 3 người bạn thân)*
 
-### 🇻🇳 1. Dàn ý nói bằng Tiếng Việt (Nhẩm nhanh trong 30 giây chuẩn bị):
+### 🇻🇳 1. Dàn ý siêu ngắn (Nhẩm 4 ý chính trong đầu):
 1. **Mở đầu (1 trong 2 đề):**
-   - *Đề Weather:* Kể về kiểu thời tiết yêu thích ➔ Miền Bắc Việt Nam có 4 mùa, tôi thích nhất là **thời tiết mát mẻ, có nắng nhẹ vào mùa thu**. Đó cũng chính là bầu không khí trong lành tôi yêu thích mỗi khi đi du lịch vùng núi như **Tam Đảo**.
-   - *Đề Travel:* Kể về trải nghiệm đi du lịch ➔ Đã đi một số nơi như Quảng Ninh, Ninh Bình, Thái Bình, nhưng điểm đến tôi thích nhất là **thị trấn Tam Đảo ở tỉnh Vĩnh Phúc** (cách Hà Nội 2 tiếng đi xe), chủ yếu vì nơi đây có **thời tiết mát mẻ tuyệt vời quanh năm**.
-2. **Đặc điểm thời tiết & Hoạt động ngoài trời:**
-   - Nhiệt độ khoảng **22 đến 23 độ C** — không quá nóng như mùa hè và không quá lạnh như mùa đông (`neither too hot nor too cold`). Bầu trời trong xanh, có sương mù nhẹ buổi sáng và gió mát (`morning fog and a fresh breeze`).
-   - Khi tận hưởng thời tiết này trong các chuyến đi, tôi thích dậy sớm hít thở không khí trong lành, đi dạo quanh quảng trường thị trấn (`walk around the town square`), ăn đồ nướng đường phố và ngồi ở quán cà phê trên sườn núi (`outdoor cafe on the mountain`) cùng bạn bè.
-3. **Câu chuyện kỷ niệm (Chuyến đi Tam Đảo mùa thu năm ngoái với 3 bạn thân):**
-   - Nhớ lại chuyến đi cuối tuần lên Tam Đảo cùng **3 người bạn thân vào mùa thu năm ngoái**.
-   - Chúng tôi ra ngoài từ sớm để tận hưởng gió mát và cảnh núi non tuyệt đẹp, chụp rất nhiều bức ảnh kỷ niệm.
-   - Sau đó, chúng tôi dừng chân ở một quán cà phê nhỏ ven đường, cùng uống **trà gừng nóng (`hot ginger tea`)**, trò chuyện và cười đùa vui vẻ.
-   - Không khí mát mẻ trong lành đã giúp tôi nạp lại năng lượng và quên hết mọi lịch học bận rộn.
-4. **Kết bài:**
-   - Tóm lại (`To sum up`), tận hưởng thời tiết mát mẻ và đi du lịch cùng bạn bè luôn mang lại cho tôi tâm trạng tuyệt vời, mở mang đầu óc và lưu giữ những kỷ niệm đẹp.
+   - *Weather:* Miền Bắc có 4 mùa, thích nhất **trời mùa thu mát mẻ** — giống như thời tiết khi đi **Tam Đảo**.
+   - *Travel:* Đã đi vài nơi như Ninh Bình, Thái Bình, thích nhất **Tam Đảo** (cách Hà Nội 2 tiếng) vì có **thời tiết mát mẻ quanh năm**.
+2. **Đặc điểm & Hoạt động:** Khoảng **22 độ** (không quá nóng, không quá lạnh), trời xanh, gió nhẹ, không khí trong lành. Thích dậy sớm đi dạo, chụp ảnh, ăn đồ đường phố và ngồi quán cà phê trên núi ngắm cảnh.
+3. **Kỷ niệm:** Cuối tuần mùa thu năm ngoái đi **xe máy lên Tam Đảo** với 3 bạn thân. Chiều trời nhiều sương mù và hơi lạnh ➔ ghé quán cà phê ấm cúng uống **trà gừng nóng**, ăn đồ nướng, cười nói hàng giờ ➔ Quên hết mệt mỏi.
+4. **Kết bài:** Trời mát và đi Tam Đảo luôn giúp vui vẻ, tràn đầy năng lượng và lưu giữ kỷ niệm đẹp bên bạn bè.
 
 ---
 
-### 🇬🇧 2. Bài nói Tiếng Anh tối ưu (Chia theo từng nhịp câu ngắn dễ thuộc):
+### 🇬🇧 2. Bài nói Tiếng Anh siêu đơn giản (Câu ngắn, từ vựng quen thuộc 100%, đủ 1.5 – 2 phút):
 
 **🔹 Bước 1: Câu mở đầu (Chọn 1 trong 2 tùy đề bốc được):**
 - 👉 **Nếu bốc trúng đề WEATHER (Thời tiết):**
-  > **Today, I would like to talk about my favorite type of weather.**  
-  > **In the north of Vietnam, we have four seasons, and my favorite weather is cool, sunny weather in autumn.**  
-  > **It is also the fresh atmosphere I love whenever I visit mountain places like Tam Dao.**
+  > **Today, I would like to talk about my favorite weather.**  
+  > **In the north of Vietnam, we have four seasons, and I love cool autumn weather the most.**  
+  > **It is also the lovely weather I always enjoy when I travel to Tam Dao.**
 - 👉 **Nếu bốc trúng đề TRAVEL (Du lịch Tam Đảo):**
-  > **Today, I would like to talk about my travelling experience.**  
-  > **So far, I have visited several places in Vietnam, such as Quang Ninh, Ninh Binh, and Thai Binh.**  
-  > **Among them, my favorite place is Tam Dao town in Vinh Phuc province, about two hours from Hanoi, because it has wonderful cool weather.**
+  > **Today, I would like to talk about a place I love to travel to.**  
+  > **I have visited some nice places in Vietnam, like Ninh Binh and Thai Binh.**  
+  > **My favorite place is Tam Dao, about two hours from Hanoi, because it has cool weather all year round.**
 
 **🔹 Bước 2 + 3 + 4: Phần dùng chung 100% cho cả 2 đề:**
-> **[Bước 2: Đặc điểm & Hoạt động]**  
-> I love this weather because the temperature is around 22 to 23 degrees Celsius—neither too hot like summer nor too cold like winter.  
-> The sky is clear blue with morning fog and a fresh breeze every day.  
-> When I enjoy this cool weather on my trips, I love walking around the town square, trying street food, and sitting at an outdoor cafe on the mountain with my friends.
+> **[Bước 2: Đặc điểm thời tiết & Hoạt động]**  
+> I really love this cool weather because it is not too hot like summer and not too cold like winter.  
+> The weather is around 22 degrees, with a blue sky, soft wind, and very fresh air.  
+> When I enjoy this weather on my trips, I often wake up early to walk around, take nice photos, and try local street food.  
+> I also love sitting at a small coffee shop in the mountains with my friends to enjoy the view.
 >
-> **[Bước 3: Câu chuyện kỷ niệm]**  
-> I still remember a wonderful weekend trip to **Tam Dao** with my three close friends last autumn.  
-> We went out early to enjoy the cool breeze and beautiful mountain views, and we took many nice photos together.  
-> Then, we stopped at a small roadside coffee shop.  
-> We drank hot ginger tea, chatted happily, and laughed a lot.  
-> The fresh, cool air helped me relax and forget all my busy study schedules.
+> **[Bước 3: Câu chuyện kỷ niệm dễ nhớ]**  
+> I still remember a wonderful weekend trip to **Tam Dao** with my three best friends last autumn.  
+> We rode our motorbikes there on Saturday morning, and the weather was super cool and nice.  
+> In the afternoon, it started to get foggy and a little cold, so we stopped at a warm coffee shop.  
+> We drank hot ginger tea, ate grilled food, talked, and laughed together for hours.  
+> That simple moment made me feel so relaxed and helped me forget all my tiredness from work and study.
 >
 > **[Bước 4: Kết bài]**  
-> **To sum up**, enjoying cool weather and travelling with friends always puts me in a good mood, opens my mind, and gives me great memories.
+> **To sum up**, cool weather and travelling to Tam Dao always make me feel happy and full of energy.  
+> They give me wonderful memories with my friends that I will never forget.
 
 ---
 ---

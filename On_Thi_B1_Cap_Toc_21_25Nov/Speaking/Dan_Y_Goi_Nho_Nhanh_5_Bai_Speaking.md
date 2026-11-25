@@ -59,19 +59,20 @@
 
 ---
 
-## 4️⃣ BÀI GỘP #4: `TRAVEL` + `WEATHER` *(Tam Đảo — Tiết trời mát mẻ 22–23°C)*
+## 4️⃣ BÀI GỘP #4: `TRAVEL` + `WEATHER` *(Tam Đảo — Trời mát 22 độ)*
 
 | Câu | Gợi nhớ phải nói gì? | Từ khóa kích hoạt tiếng Anh |
 | :---: | :--- | :--- |
-| **1–2 (Đề WEATHER)** | Miền Bắc 4 mùa ➔ Thích trời mát có nắng mùa thu ➔ Như khi đi Tam Đảo | `four seasons` ➔ `cool, sunny in autumn` ➔ `mountain places like Tam Dao` |
-| **1–2 (Đề TRAVEL)** | Đã đi vài tỉnh ➔ Thích nhất Tam Đảo (Vĩnh Phúc, cách HN 2 tiếng) vì trời mát | `several places` ➔ `Tam Dao town` (`2 hours from Hanoi`) ➔ `cool weather` |
-| **3** | Nhiệt độ: 22–23 độ C (Không quá nóng như hè, không quá lạnh như đông) | `22 to 23 degrees` ➔ `neither too hot nor too cold` |
-| **4** | Bầu trời: Xanh trong + sương mù sáng + gió mát | `clear blue sky` + `morning fog` + `fresh breeze` |
-| **5** | Hoạt động: Đi dạo quảng trường, ăn đồ đường phố, ngồi cafe trên núi với bạn | `walk town square` + `street food` + `outdoor cafe on mountain` |
-| **6** | Kỷ niệm: Cuối tuần mùa thu năm ngoái đi Tam Đảo với 3 bạn thân | `weekend trip to Tam Dao` ➔ `3 close friends` ➔ `last autumn` |
-| **7–8** | Làm gì: Ra ngoài sớm ngắm cảnh chụp ảnh ➔ Vào quán cafe ven đường uống trà gừng nóng, cười nói | `mountain views, photos` ➔ `roadside coffee shop` ➔ `hot ginger tea, laughed` |
-| **9** | Cảm giác: Không khí mát giúp thư giãn, quên hết lịch học bận rộn | `fresh, cool air` ➔ `forget busy study schedules` |
-| **10 (Kết)** | Tâm trạng tốt + mở mang đầu óc + nhiều kỷ niệm đẹp | `To sum up` ➔ `good mood, opens my mind, great memories` |
+| **1–3 (Đề WEATHER)** | Miền Bắc 4 mùa ➔ Thích trời thu mát nhất ➔ Cũng là trời khi đi Tam Đảo | `four seasons` ➔ `cool autumn weather` ➔ `when I travel to Tam Dao` |
+| **1–3 (Đề TRAVEL)** | Đã đi vài nơi (Ninh Bình, Thái Bình) ➔ Thích nhất Tam Đảo (cách HN 2h) vì trời mát | `Ninh Binh and Thai Binh` ➔ `Tam Dao, 2 hours from Hanoi` ➔ `cool weather` |
+| **4** | Không quá nóng như hè, không quá lạnh như đông | `not too hot like summer` + `not too cold like winter` |
+| **5** | Khoảng 22 độ + trời xanh + gió nhẹ + không khí trong lành | `22 degrees` + `blue sky` + `soft wind` + `fresh air` |
+| **6–7** | Hoạt động: Dậy sớm đi dạo, chụp ảnh, ăn đồ đường phố + Ngồi cafe núi ngắm cảnh | `wake up early, walk around, photos, street food` + `coffee shop in mountains, view` |
+| **8** | Kỷ niệm: Cuối tuần mùa thu năm ngoái đi Tam Đảo với 3 bạn thân | `weekend trip to Tam Dao` ➔ `3 best friends` ➔ `last autumn` |
+| **9** | Đi xe máy sáng thứ Bảy, trời siêu mát và đẹp | `rode motorbikes, Saturday morning` ➔ `super cool and nice` |
+| **10–11** | Chiều sương mù hơi lạnh ➔ Vào quán cafe ấm uống trà gừng nóng, ăn đồ nướng, cười nói | `foggy, a little cold` ➔ `warm coffee shop` ➔ `hot ginger tea, grilled food, laughed` |
+| **12** | Cảm giác: Thư giãn + Quên hết mệt mỏi học tập & công việc | `relaxed` ➔ `forget all tiredness from work and study` |
+| **13–14 (Kết)** | Luôn vui vẻ, đầy năng lượng + Kỷ niệm không bao giờ quên bên bạn bè | `To sum up` ➔ `happy, full of energy` + `memories never forget` |
 
 ---
 
